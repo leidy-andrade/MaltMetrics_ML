@@ -1,0 +1,1001 @@
+brewery_id,brewery_name,review_time,review_overall,review_aroma,review_appearance,review_profilename,beer_style,review_palate,review_taste,beer_name,beer_abv,beer_beerid
+13307,Mikkeller ApS,1317606533,4.0,4.5,4.5,Ghenna,American Barleywine,3.5,3.5,Big Worst,18.5,56831
+126,Pete's Brewing Company,1195281294,2.5,3.0,3.5,hwwty4,Cream Ale,3.0,2.5,Pete's Wicked Wanderlust Cream Ale,5.6,19950
+203,Greene King / Morland Brewery,1224109943,4.0,3.5,4.0,dsa7783,English Pale Ale,3.5,3.5,Abbot Ale,5.0,910
+167,Brewery Lobkowicz,1070489226,4.5,4.0,3.5,TastyTaste,Czech Pilsener,4.0,4.5,Lobkowicz Knight,4.8,444
+664,Wells & Young's Ltd,1172208746,5.0,4.0,5.0,BadRockBeer,Milk / Sweet Stout,5.0,5.0,Young's Double Chocolate Stout,5.2,73
+30,Avery Brewing Company,1161643310,3.5,4.5,4.5,AaronHomoya,Quadrupel (Quad),4.0,4.0,The Reverend,10.0,2014
+22,Unibroue,1215184654,3.0,2.5,3.0,cvstrickland,Fruit / Vegetable Beer,3.0,3.0,Éphémère (Apple),5.5,3523
+224,St. Pauli Brauerei C.L. Wilh. Brandt Gmbh & Co.,1276036822,2.0,2.5,3.0,PapaGemutlich,Munich Dunkel Lager,3.0,2.5,St. Pauli Girl Special Dark,4.8,698
+10099,Dogfish Head Brewery,1192893550,3.5,4.5,4.0,jaxon53,American Barleywine,4.0,4.0,Olde School Barleywine,15.04,6533
+9897,Jolly Pumpkin Artisan Ales,1288755942,4.0,4.0,4.0,Mora2000,Pumpkin Ale,4.0,4.0,La Parcela,6.0,45723
+3268,O'Fallon Brewery,1121034829,3.5,3.5,2.5,Vancer,Fruit / Vegetable Beer,2.5,3.0,Wheach,5.1,24059
+68,Flying Dog Brewery,1265765654,4.5,3.0,4.0,ffejherb,California Common / Steam Beer,3.5,3.5,Old Scratch Amber Lager,5.5,204
+1549,Goose Island Beer Co.,1152457279,4.5,3.0,3.0,mountdew1,American Pale Wheat Ale,3.0,4.5,312 Urban Wheat,4.2,17141
+345,Victory Brewing Company,1159033496,4.5,3.5,4.5,klewis,German Pilsener,4.0,4.5,Prima Pils,5.3,1010
+2875,Carolina Brewery,1243248306,4.0,4.0,4.5,porterwoobie,American Amber / Red Ale,3.5,4.0,Copperline Amber Ale,3.9,8373
+29,Anheuser-Busch,1228875809,4.0,4.0,3.5,TheFightfan1,Winter Warmer,4.5,4.0,Winter's Bourbon Cask Ale,6.0,27354
+96,Magic Hat Brewing Company,1128117871,4.5,4.5,4.5,GCBrewingCo,Scotch Ale / Wee Heavy,4.0,4.0,Jinx,6.9,296
+109,Moorhouse's Brewery (Burnley) Ltd,1122788969,4.5,3.5,3.5,whynot44,English Pale Ale,3.5,4.0,Pendle Witches Brew,5.1,340
+669,Brouwerij De Landtsheer NV,1307029433,3.5,3.0,3.0,SmokinSmyth,Belgian Pale Ale,4.0,4.0,Malheur 6°,6.0,7844
+152,Young & Co Brewery PLC,1053111081,4.0,4.0,3.5,budgood1,English Barleywine,4.0,4.0,Young's Old Nick Barley Wine Ale,7.2,1441
+13307,Mikkeller ApS,1237261331,4.0,5.0,4.5,bryanbrick,American IPA,4.5,4.5,Simcoe Single Hop IPA,6.9,28793
+184,Bierbrouwerij De Koningshoeven B.V.,1322028908,4.5,4.0,4.5,perrymarcus,Belgian Pale Ale,4.0,4.5,La Trappe Isid'or,7.5,51030
+694,Tröegs Brewing Company,1133668518,3.5,2.5,3.0,mrasskicktastic,Belgian Strong Dark Ale,4.5,3.5,Tröegs Mad Elf,11.0,7531
+2210,Firestone Walker Brewing Co.,1235280469,3.5,3.0,3.0,bbothen,English Pale Ale,3.0,3.0,Double Barrel Ale,5.0,5653
+345,Victory Brewing Company,1325936190,3.5,3.5,4.0,Rifugium,Smoked Beer,3.5,4.0,Smokin' Oats,5.8,56742
+192,New Belgium Brewing,1242436786,4.5,4.0,4.5,bluejacket74,Belgian Dark Ale,4.0,4.0,1554 Enlightened Black Ale,5.6,1914
+786,Stevens Point Brewery,1322705189,2.5,2.5,3.0,stakem,Winter Warmer,3.0,3.0,St. Benedict's Winter Ale,6.2,39392
+1550,Rock Bottom Restaurant & Brewery,1118365819,2.0,2.0,3.5,JackTheRipper,American Amber / Red Ale,4.0,3.0,North Star Amber Ale,5.0,15925
+4338,C.B. & Potts Restaurant & Brewery,1206139622,2.5,3.0,3.0,rowew,American Amber / Red Ale,3.0,3.0,Big Horn Buttface Amber Ale,,25912
+646,Carlow Brewing Company,1305430910,4.5,4.5,5.0,Cyberkedi,Irish Dry Stout,4.5,4.5,O'Hara's Irish Stout,4.3,1751
+68,Flying Dog Brewery,1318135277,4.0,4.0,4.0,Immortale25,Hefeweizen,3.5,4.5,In-Heat Wheat,4.7,2249
+45,Brooklyn Brewery,1226207301,3.0,3.5,4.0,Raligitano,American Amber / Red Lager,3.0,4.5,Brooklyn Lager,5.2,148
+392,Weyerbacher Brewing Co.,1217469861,4.0,4.0,4.0,Stinkypuss,Weizenbock,3.5,4.5,Slam Dunkel,7.0,37691
+345,Victory Brewing Company,1146970505,4.0,4.0,4.0,TheManiacalOne,American Barleywine,4.5,4.0,Old Horizontal,11.0,1009
+12375,Mt. Carmel Brewing Company,1319157120,4.0,4.0,4.0,billab914,American Amber / Red Ale,3.5,3.5,Amber Ale,6.0,47754
+1471,Dark Horse Brewing Company,1240836542,4.0,3.5,4.0,Ragingbull,American Strong Ale,4.0,4.5,Dark Horse Reserve Special Black Bier Ale,7.5,3877
+16315,BrewDog,1229636084,4.5,5.0,4.5,hopdog,American Double / Imperial Stout,4.5,4.5,Tokyo,12.0,44484
+1874,Pizzeria Uno Chicago Grill & Brewery,1062528029,3.5,3.0,3.0,Dogbrick,Hefeweizen,3.0,2.5,Hefeweizen,,12429
+932,Hale's Ales Brewery & Pub,1082079166,4.0,4.0,4.0,BierReise,Russian Imperial Stout,3.0,4.0,Pikop Andropov's Rushin' Imperial Stout,8.0,9484
+20417,White Birch Brewing,1295315025,4.0,4.0,3.5,Billolick,Belgian Pale Ale,3.5,4.0,White Birch Belgian Style Pale Ale,9.5,51844
+220,Lagunitas Brewing Company,1231286855,4.0,4.0,4.0,thespaceman,American IPA,3.5,4.0,Lagunitas IPA,6.2,916
+388,Brasserie Cantillon,1073538491,4.0,4.5,4.0,mickeymac,Lambic - Fruit,4.0,4.5,Cantillon Rosé De Gambrinus,5.0,2557
+8,Widmer Brothers Brewing Company,1158036841,3.0,2.5,2.5,RJLarse,Altbier,3.0,3.0,Okto,5.5,25752
+1471,Dark Horse Brewing Company,1275449864,4.0,4.0,4.5,pmccallum86,Russian Imperial Stout,4.5,4.0,Plead The 5th Imperial Stout,12.0,45073
+30,Avery Brewing Company,1261191197,4.0,4.5,4.5,prototypic,American Double / Imperial IPA,4.0,4.0,DuganA IPA,8.5,53167
+3818,Southern Tier Brewing Company,1210740786,4.0,3.5,3.5,scruffwhor,American Pale Wheat Ale,4.0,4.0,ÜberSun (Imperial Summer Wheat Beer),8.0,37672
+428,Mahrs-Bräu,1102348257,4.0,4.0,4.5,RoyalT,Keller Bier / Zwickel Bier,4.0,4.0,Mahr's Ungespundet-hefetrüb,5.2,2412
+140,Sierra Nevada Brewing Co.,1288009657,3.5,4.0,3.5,Thorpe429,American Brown Ale,4.0,3.5,Edge Of Darkness - Beer Camp #12,6.75,52574
+147,Stone Brewing Co.,1240967970,3.5,4.0,4.5,ffejherb,American Strong Ale,3.5,3.5,Arrogant Bastard Ale,7.2,92
+18393,Micro Cervejaria Bamberg,1311955947,4.0,4.0,3.5,DoubleJ,Dubbel,4.0,4.0,Due,6.5,71486
+48,Brouwerij Van Steenberge N.V.,1235011111,2.5,4.5,4.5,Zaccone,Tripel,3.0,3.5,Augustijn Ale,8.0,1631
+17310,Otway Estate Winery & Brewery,1297154698,3.5,3.5,3.5,dgilks,Irish Dry Stout,3.5,3.0,Prickly Moses Otway Stout,5.0,43496
+1199,Founders Brewing Company,1312990240,4.5,4.5,5.0,mocktm,American Double / Imperial Stout,5.0,5.0,Founders Breakfast Stout,8.3,11757
+798,Castle Eden & Camerons Brewing Company Ltd,1083421161,4.5,4.0,4.0,BeerResearcher,English Pale Ale,4.0,3.5,Castle Eden Ale,4.2,17314
+18968,Appalachian Brewing Company,1095860086,4.0,4.0,4.0,WesWes,Witbier,4.0,4.0,Mad Cameron Belgian White,5.2,11177
+2854,Flensburger Brauerei GmbH Und Co. KG,1170559726,4.0,4.5,4.0,Cadyfatcat,Hefeweizen,3.5,3.5,Flensburger Weizen,,6712
+139,Shipyard Brewing Co.,1287193824,1.5,3.0,3.0,junjun,English India Pale Ale (IPA),3.0,1.5,Shipyard IPA,5.8,693
+213,Narragansett Brewing Co.,1281973019,4.0,3.5,4.0,Gosox8787,American Adjunct Lager,3.5,3.5,Narragansett Lager,5.1,7406
+132,Rogue Ales,1290044076,3.5,3.5,4.0,QuestionableScum,Maibock / Helles Bock,4.5,4.5,Dead Guy Ale,6.5,355
+42,Brewery Ommegang,1193539123,3.5,4.0,5.0,jdubjacket,Belgian Dark Ale,4.5,3.5,Chocolate Indulgence Stout,7.0,38818
+222,Brouwerij Duvel Moortgat NV,1104187090,4.5,4.5,4.0,AlexJ,Belgian Strong Pale Ale,4.5,4.0,Duvel,8.5,695
+2743,Green Flash Brewing Co.,1243218117,3.5,4.5,4.5,gciccarelli,American IPA,4.0,4.0,Green Flash West Coast I.P.A.,7.3,22505
+62,D.L. Geary Brewing Company,1109234989,4.0,3.5,4.0,crookedhalo,English Pale Ale,4.0,3.5,Geary's Pale Ale,4.5,192
+3818,Southern Tier Brewing Company,1204933466,4.5,4.5,4.5,dsa7783,American Double / Imperial IPA,4.5,5.0,Unearthly (Imperial India Pale Ale),9.5,28577
+132,Rogue Ales,1300565160,5.0,4.5,4.5,ant5431,Euro Pale Lager,5.0,5.0,Kells Irish Style Lager,5.0,6314
+2681,Oskar Blues Grill & Brew,1170729393,5.0,4.0,4.5,mentor,Cream Ale,4.0,4.5,Money Shot,5.0,35143
+641,Brouwerij Verhaeghe,1256150767,5.0,4.5,5.0,bonsreeb85,Flanders Red Ale,4.5,5.0,Duchesse De Bourgogne,6.0,1745
+26,Three Floyds Brewing Co. & Brewpub,1310090960,4.0,3.5,4.0,xnicknj,American Double / Imperial IPA,4.0,4.0,Arctic Panzer Wolf,9.0,52531
+140,Sierra Nevada Brewing Co.,1298451165,5.0,4.0,4.5,scootny,American Strong Ale,4.5,4.5,30th Anniversary - Grand Cru,9.2,63152
+1199,Founders Brewing Company,1267996480,4.5,4.5,4.0,Bierguy5,American Porter,4.0,4.5,Founders Barrel-Aged Porter,9.0,41816
+147,Stone Brewing Co.,1038140902,4.5,4.5,4.5,maxpower,Russian Imperial Stout,4.5,4.5,Stone Imperial Russian Stout,10.5,1160
+216,Brouwerij Rodenbach N.V.,1298074194,2.5,4.0,4.5,OttoPeeWee,Flanders Red Ale,3.5,3.5,Rodenbach Grand Cru,6.0,673
+1924,DuClaw Brewing Company,1312672953,4.5,4.0,4.0,Scotchboy,Russian Imperial Stout,4.0,4.0,Black Jack Imperial Stout,8.0,19045
+96,Magic Hat Brewing Company,1271015267,4.0,4.0,4.0,chadmcneeley,American Amber / Red Lager,4.0,4.0,Vinyl,5.1,54540
+2681,Oskar Blues Grill & Brew,1259185865,4.0,4.0,4.0,flannelman808,American Double / Imperial IPA,4.5,4.0,G'Knight Imperial Red Ale,8.7,8919
+5489,Big Bear Brewing Company,1231703671,2.0,2.5,3.0,ThirstyBird,American Brown Ale,2.0,2.0,Brown Bear,6.0,26000
+71,Fuller Smith & Turner PLC,1325253715,5.0,4.5,4.0,SargeC,Extra Special / Strong Bitter (ESB),4.5,5.0,Fuller's ESB,5.9,219
+16842,Marshall Wharf Brewing Company / Three Tides Restaurant,1241505308,4.0,3.5,4.0,tai4ji2x,English Bitter,3.5,3.5,Little Toot,4.0,49580
+287,"Bell's Brewery, Inc.",1123632420,4.5,4.0,4.0,bahumutx,American Amber / Red Ale,4.5,4.5,Bell's Amber Ale,5.8,794
+1709,Capitol City Brewing,1299108160,3.5,3.0,3.5,smakawhat,American Amber / Red Ale,4.0,4.0,Amber Waves Ale,5.6,25744
+335,New Holland Brewing Company,1239683150,4.5,4.5,4.5,feloniousmonk,American Double / Imperial Stout,4.0,4.0,New Holland Night Tripper,10.8,40671
+11212,Iron Horse Brewery,1252012817,1.5,3.0,3.5,beertunes,American Double / Imperial Stout,3.5,3.0,Mocha Death,7.0,50908
+341,Columbus Brewing Company,1147473141,4.0,3.5,4.0,Ahhdball,American Pale Ale (APA),3.5,3.5,Columbus Pale Ale,,3700
+147,Stone Brewing Co.,1280782825,4.0,4.0,4.0,CityBoy1986,American Pale Ale (APA),4.5,4.0,Stone Pale Ale,5.4,87
+1916,Kettle House Brewing Co.,1029864743,4.5,4.0,4.0,beernut7,American Pale Ale (APA),4.0,4.5,Ginseng Pale Ale,,5589
+5317,Full Sail Brewery at Riverplace / The Pilsner Room,1245610889,4.0,4.0,4.0,bigbelcher,American Porter,4.5,4.0,Full Sail Imperial Porter,7.5,42209
+287,"Bell's Brewery, Inc.",1290061222,4.0,4.0,4.5,Beertinez,American Stout,4.0,4.5,Bell's Special Double Cream Stout,6.1,2403
+158,Great Divide Brewing Company,1286411262,3.5,4.0,3.0,BrewCrew2010,Scotch Ale / Wee Heavy,3.5,4.0,Claymore Scotch Ale,7.7,47440
+2137,Breckenridge Brewery,1269837767,4.0,3.0,3.0,Bulkman,American Porter,3.5,3.5,Vanilla Porter,4.7,27800
+23495,Professor Fritz Briem,1218580456,4.5,4.0,4.0,kleffman,Berliner Weissbier,4.5,4.0,Professor Fritz Briem 1809 Berliner Weisse,5.0,36378
+1549,Goose Island Beer Co.,1260760609,4.0,4.0,4.5,Stigs,English India Pale Ale (IPA),4.0,4.0,India Pale Ale,5.9,3968
+45,Brooklyn Brewery,1283145512,5.0,4.5,5.0,nyuballer,American Double / Imperial IPA,5.0,5.0,Brooklyn Detonation Ale,10.2,61361
+141,Smuttynose Brewing Company,1309571313,2.5,3.0,3.5,Satchboogie,American Double / Imperial Stout,3.0,2.5,Smuttynose Belgian Stout (Short Batch Series),8.3,61957
+700,Elysian Brewing Company,1260155029,3.0,2.0,3.0,beertunes,American Pale Ale (APA),3.0,3.0,Loser Pale Ale,7.0,44568
+22893,Epic Brewing Co.,1321837995,4.0,3.5,4.0,Bierguy5,Pumpkin Ale,4.5,4.0,Fermentation Without Representation Imperial Pumpkin Porter,7.5,74942
+148,Belhaven Brewery Company Ltd.,1292284938,3.0,3.0,3.5,BeerLover99,English Bitter,3.0,3.0,Belhaven Best,3.9,9684
+694,Tröegs Brewing Company,1151040486,4.0,4.0,4.0,ggaughan,Belgian Strong Dark Ale,4.0,4.5,Tröegs Naked Elf,8.5,30310
+287,"Bell's Brewery, Inc.",1233449122,4.5,2.0,4.0,Amsterdam,American Stout,4.0,4.5,Bell's Kalamazoo Stout,6.0,1117
+16206,Philadelphia Brewing Company,1268099973,4.0,2.5,3.5,rawthar,Witbier,3.5,3.0,Walt Wit,4.2,41877
+1199,Founders Brewing Company,1266719842,4.5,4.5,4.5,alexgash,Wheatwine,5.0,4.5,Founders Nemesis 2009,12.0,55900
+22,Unibroue,1272228054,4.5,4.0,3.0,dtivp,Belgian Strong Dark Ale,4.5,4.5,Trois Pistoles,9.0,30
+739,Brouwerij De Ranke,1134182015,4.0,4.0,4.5,maggotbrain,Belgian Strong Pale Ale,4.0,4.5,De Ranke Père Noël,7.0,2211
+335,New Holland Brewing Company,1280682095,5.0,4.5,4.5,doppelbockrob,Smoked Beer,4.5,5.0,Charkoota Rye,7.79,47050
+112,North Coast Brewing Co.,1248667128,3.5,4.0,4.5,realmpel,Russian Imperial Stout,3.5,4.0,Old Rasputin Russian Imperial Stout,9.0,412
+5318,Port Brewing Company / Pizza Port,1202408408,4.5,4.5,4.0,BMan1113VR,American Double / Imperial Stout,4.0,4.5,Old Viscosity,10.0,31613
+2743,Green Flash Brewing Co.,1263568596,4.0,4.0,4.0,FeDUBBELFIST,American IPA,4.0,4.5,Green Flash West Coast I.P.A.,7.3,22505
+45,Brooklyn Brewery,1125805007,4.5,4.0,4.0,GnomeKing,Märzen / Oktoberfest,4.5,4.0,Brooklyn Oktoberfest Beer,5.5,570
+13307,Mikkeller ApS,1247896165,4.0,4.0,3.5,msubulldog25,American Double / Imperial Stout,4.5,4.5,Beer Geek Brunch Weasel,10.9,46987
+156,Tommyknocker Brewery,1318209808,4.0,4.0,3.0,rundocrun,American Brown Ale,4.0,4.0,Imperial Nut Brown Ale,9.8,21166
+718,Brouwerij Bavik,1283056353,3.0,4.0,3.5,CHickman,Flanders Oud Bruin,4.0,3.5,Petrus Aged Pale,7.3,2184
+18134,Redhook Ale Brewery,1278771222,3.0,3.0,3.0,CBlack85,American Amber / Red Ale,3.0,3.0,Copperhook,5.7,35061
+2171,Four Peaks Brewing Company,1105585066,3.5,4.0,3.5,pezoids,Scottish Ale,3.5,3.5,Kilt Lifter Scottish Style Ale,6.0,6218
+48,Brouwerij Van Steenberge N.V.,1118818618,3.0,4.0,5.0,MABZ,Belgian Strong Pale Ale,5.0,4.5,Bière Du Boucanier Golden,11.0,7975
+478,Labatt Brewing Company Ltd.,1194414769,3.0,3.0,3.5,ZAP,American Adjunct Lager,3.0,3.5,Labatt Genuine Honey,5.0,24278
+2243,The Porterhouse Brewing Company,1279591964,4.0,4.0,3.5,jpmclaug,Irish Dry Stout,4.0,4.0,Oyster Stout,5.2,5686
+337,Saint Arnold Brewing Company,1072978909,4.5,4.0,4.0,spazaru,Winter Warmer,4.0,4.5,Saint Arnold Christmas Ale,7.0,1068
+590,New Glarus Brewing Company,1259681871,4.0,4.0,3.5,nickynick,American Pale Lager,4.0,3.0,Totally Naked,4.25,6228
+13307,Mikkeller ApS,1312159561,4.0,3.5,3.5,nezelrac,American IPA,4.0,4.0,Stateside IPA,7.0,33670
+35,Boston Beer Company (Samuel Adams),1034402928,4.0,3.0,4.5,chilidog,German Pilsener,3.0,4.0,Samuel Adams Golden Pilsner,4.63,109
+590,New Glarus Brewing Company,1143288995,4.0,5.0,5.0,nisjer05,Fruit / Vegetable Beer,5.0,5.0,Wisconsin Belgian Red,4.0,1577
+392,Weyerbacher Brewing Co.,1295126497,5.0,4.5,4.0,jpmclaug,American Wild Ale,4.5,5.0,Riserva,11.4,43217
+10099,Dogfish Head Brewery,1297225774,4.0,4.0,4.5,aggiearcher13,American Double / Imperial IPA,4.5,4.0,90 Minute IPA,9.0,2093
+23973,Sebago Brewing Company,1273498777,4.0,3.0,4.0,Jayli,American IPA,4.0,3.5,Frye's Leap India Pale Ale,6.2,5815
+68,Flying Dog Brewery,1189557336,3.0,4.0,3.5,dickieb,American IPA,3.0,3.0,Snake Dog IPA,7.1,205
+1666,Selin's Grove Brewing Company,1178665944,4.5,4.5,4.5,ggaughan,Fruit / Vegetable Beer,4.5,4.5,Phoenix Kriek,6.5,37474
+392,Weyerbacher Brewing Co.,1291693496,4.0,4.0,4.0,LordAdmNelson,American Wild Ale,4.0,5.0,Riserva,11.4,43217
+1513,Barley's Smokehouse and Brewpub,1277165344,4.0,3.5,3.5,MbpBugeye,American Pale Wheat Ale,3.5,3.5,Barley's Katie's Summer Wheat,,59460
+5316,Full Sail Brewery & Tasting Room & Pub,1205736977,3.5,3.5,4.0,1whiskey,American Brown Ale,4.0,4.0,Nut Brown Ale (Brewmaster Reserve 2008),6.0,41509
+5318,Port Brewing Company / Pizza Port,1303007995,4.0,4.5,4.0,Marty30,American Double / Imperial IPA,4.0,4.0,Mongo,8.5,55342
+10099,Dogfish Head Brewery,1251239909,4.5,3.0,4.0,BraveUlysses,Chile Beer,4.5,4.5,Theobroma,9.0,41702
+35,Boston Beer Company (Samuel Adams),1265578223,3.0,3.0,4.0,L337ish,Schwarzbier,4.0,3.5,Samuel Adams Black Lager,4.9,21300
+417,August Schell Brewing Company,1194576424,3.5,3.0,3.5,hylton44,Märzen / Oktoberfest,3.0,3.5,Oktoberfest,5.5,1568
+3,Abita Brewing Co.,1202951978,4.0,4.0,4.5,burnstar,American IPA,4.0,4.0,Jockamo IPA,6.5,39390
+738,Brasserie Fantôme,1215831810,4.5,4.0,3.5,Lofgrep,Saison / Farmhouse Ale,5.0,5.0,Fantôme Saison,8.0,5057
+10099,Dogfish Head Brewery,1169613775,3.5,3.0,3.0,sleazo,American Pale Ale (APA),3.5,3.0,Shelter Pale Ale,5.0,1079
+5318,Port Brewing Company / Pizza Port,1185195861,4.0,3.5,3.5,CharlesDarwin,American IPA,3.5,3.5,Swamis IPA,6.9,5614
+267,Odell Brewing Company,1286836616,2.5,4.0,4.0,busternuggz,American Double / Imperial Pilsner,3.0,1.5,Odell Double Pilsner,8.1,31255
+113,Samuel Smith Old Brewery (Tadcaster),1325035422,4.0,4.5,5.0,mustang70,English Brown Ale,4.0,4.0,Samuel Smith's Nut Brown Ale,5.0,576
+2281,Quidi Vidi Brewing Company,1258254030,2.0,2.5,3.5,biboergosum,Light Lager,3.0,2.5,Iceberg Beer,4.5,43761
+17981,Cigar City Brewing,1297998834,2.5,3.0,4.0,mbrady55,American Wild Ale,3.5,2.5,Vuja De,9.96,65426
+68,Flying Dog Brewery,1289507468,3.5,3.0,3.0,rarbring,Kölsch,4.0,3.5,Tire Bite Golden Ale,5.1,2151
+192,New Belgium Brewing,1163736393,3.5,4.0,4.0,aaronh,Tripel,3.5,3.5,Trippel Belgian Style Ale,7.8,1054
+216,Brouwerij Rodenbach N.V.,1272857211,5.0,4.5,4.5,glid02,Flanders Red Ale,4.0,5.0,Rodenbach Grand Cru,6.0,673
+864,Red Brick Brewing Company,1297221424,3.0,3.0,2.0,baconsausage,Belgian Strong Dark Ale,2.5,3.5,Long John Ale,8.2,63469
+220,Lagunitas Brewing Company,1271731201,4.0,3.5,4.0,Lazerlobe,American Strong Ale,4.0,3.5,Wilco Tango Foxtrot,7.83,56613
+3923,Henninger Bräu AG,1125598351,3.0,2.5,3.0,BEERchitect,Munich Helles Lager,2.5,2.5,Henninger Premium Lager,4.8,9298
+898,Heavy Seas Beer,1185571939,4.0,3.5,4.0,stereosforgeeks,American IPA,3.5,4.0,Heavy Seas - Loose Cannon (Hop3 Ale),7.25,25755
+141,Smuttynose Brewing Company,1314317002,4.0,4.0,4.0,DaveBlack,Belgian IPA,4.0,4.0,Smuttynose Homunculus (Big Beer Series),9.9,35225
+140,Sierra Nevada Brewing Co.,1282794924,3.5,4.0,4.0,Keffa,American Barleywine,3.5,5.0,30th Anniversary - Jack & Ken's Ale,10.2,60474
+73,Great Lakes Brewing Company,1192543855,4.5,4.5,4.5,franksnbeans,Russian Imperial Stout,4.5,4.5,Great Lakes Blackout Stout,9.0,15813
+28,Anchor Brewing Company,1112673197,3.5,3.5,4.5,whynot44,Winter Warmer,4.0,4.0,Our Special Ale 2004 (Anchor Christmas Ale),5.25,20599
+28,Anchor Brewing Company,1267115874,3.5,4.5,4.0,GratefulBeerGuy,English Barleywine,3.5,4.0,Anchor Old Foghorn,8.2,1445
+735,21st Amendment Brewery,1300671308,3.5,2.5,3.5,colforbin73,American Black Ale,3.0,3.5,Back In Black,6.8,46070
+18134,Redhook Ale Brewery,1196629036,4.0,2.5,3.5,terrabyte,Winter Warmer,3.0,3.5,Winterhook Winter Ale,5.9,13906
+694,Tröegs Brewing Company,1249557953,4.5,3.0,3.0,GordonQuid,English Brown Ale,4.0,4.0,Tröegs Rugged Trail Nut Brown Ale,4.4,3677
+4686,Hofbräuhaus München,1280105345,4.5,4.0,4.0,gkunkle,Munich Dunkel Lager,4.5,4.0,Hofbräu Dunkel,5.5,8116
+839,Tooheys Brewing,1118525850,1.0,1.0,1.0,AussieInPhilly,Euro Dark Lager,1.0,1.0,Tooheys Red,4.5,4001
+10099,Dogfish Head Brewery,1142019705,4.0,4.0,3.5,harsley,American IPA,3.5,4.5,60 Minute IPA,6.0,6108
+1169,Fitger's Brewhouse,1082306413,4.0,4.0,4.5,ZAP,Oatmeal Stout,4.0,4.5,Big Boat Oatmeal Stout,6.6,9890
+15189,Big Boss Brewing,1294110200,3.5,3.5,4.0,GehenHerzog,American Stout,4.0,4.5,Aces & Ates,8.0,47602
+3268,O'Fallon Brewery,1273983706,4.0,4.0,2.5,bnes09,American IPA,3.0,3.0,5 Day IPA,6.1,28350
+10485,East End Brewing Company,1169914203,4.5,4.0,4.5,Alkey,American Stout,4.0,4.0,Blackstrap Stout,6.2,20954
+147,Stone Brewing Co.,1259162660,4.0,4.0,4.0,cypressbob,American Strong Ale,4.0,4.5,Oaked Arrogant Bastard Ale,7.2,8951
+287,"Bell's Brewery, Inc.",1295675989,2.0,3.5,4.0,alcstradamus,American Strong Ale,3.0,3.0,Bell's 25th Anniversary Ale,8.5,60506
+213,Narragansett Brewing Co.,1294457618,4.0,3.5,4.0,philmorepunk87,American Adjunct Lager,4.0,3.5,Narragansett Lager,5.1,7406
+147,Stone Brewing Co.,1315289571,4.0,4.0,4.5,DaftCaskBC,American Black Ale,4.5,4.0,Stone 15th Anniversary Escondidian Imperial Black IPA,10.8,72138
+140,Sierra Nevada Brewing Co.,1304395123,4.0,4.0,4.5,BarryMFBurton,American Barleywine,3.5,4.0,Sierra Nevada Bigfoot Barleywine Style Ale,9.6,2671
+112,North Coast Brewing Co.,1063393411,3.0,4.5,3.5,nomad,American Brown Ale,4.0,3.0,ACME California Brown Ale,5.6,405
+5316,Full Sail Brewery & Tasting Room & Pub,1231893625,4.0,3.5,4.0,Kegatron,American Double / Imperial IPA,4.0,3.5,Slipknot Imperial IPA (Brewmaster Reserve),7.8,8716
+23200,Knee Deep Brewing Company,1305264555,3.0,3.0,3.5,SHODriver,American Porter,3.0,3.5,Tanilla Porter,6.3,68262
+174,Latrobe Brewing Co.,1246027279,1.5,1.5,2.0,yesyouam,American Adjunct Lager,1.0,1.5,Rolling Rock Extra Pale,4.6,567
+42,Brewery Ommegang,1044951443,4.0,4.0,4.5,BeerBuilder,Saison / Farmhouse Ale,4.0,4.5,Hennepin (Farmhouse Saison),7.7,141
+423,Boulevard Brewing Co.,1219453232,3.5,3.5,3.0,brentk56,Witbier,3.5,3.5,ZÔN,4.4,3278
+2743,Green Flash Brewing Co.,1291803678,4.0,4.0,4.0,dgilks,Belgian IPA,4.0,4.5,Green Flash Le Freak,9.2,36727
+68,Flying Dog Brewery,1213844347,4.0,3.5,4.0,allergictomacros,American Porter,3.5,4.0,Road Dog Porter,6.0,206
+113,Samuel Smith Old Brewery (Tadcaster),1163428964,4.0,3.5,4.0,mnesporov,Winter Warmer,3.5,4.0,Samuel Smith's Winter Welcome Ale,6.0,577
+302,Genesee Brewing Co. / Dundee Brewing Co.,1199512574,4.0,3.5,4.0,beerjunkie420,American IPA,3.0,3.0,Dundee India Pale Ale,6.3,25144
+3185,The Tap Brewing Company,1086369985,4.5,5.0,3.5,thestuff,American Double / Imperial Stout,4.5,4.0,Golden Slipper,8.6,16778
+199,Ballast Point Brewing Company,1232988263,4.5,4.0,4.0,tmoneyba,American Double / Imperial IPA,4.0,4.0,Dorado Double IPA,9.6,10386
+8,Widmer Brothers Brewing Company,1277092530,4.5,4.0,4.0,TMoney2591,Doppelbock,4.5,4.5,Cherry Oak Doppelbock (Brothers' Reserve Series),9.0,52848
+652,Central Waters Brewing Company,1296084492,3.0,3.0,3.5,mdfb79,American IPA,4.0,3.0,Glacial Trail IPA,5.5,42189
+10097,Harpoon Brewery,1248297470,4.0,3.5,3.5,JMD,Kölsch,3.5,3.5,Harpoon Summer Beer,5.5,307
+96,Magic Hat Brewing Company,1315788017,4.0,3.5,4.0,Chaney,American IPA,4.0,4.0,Hi.P.A.,6.7,9873
+7406,Bitter Root Brewing,1213996928,3.5,4.0,4.5,GClarkage,Hefeweizen,4.0,3.5,Smoked Hefeweizen,,43314
+6372,Fort Collins Brewing,1233800351,3.0,3.5,3.5,JohnGSO,Witbier,3.5,2.5,Major Tom's Pomegranate Wheat,4.8,22557
+552,Scheldebrouwerij,1255293654,4.0,3.5,4.0,rvdoorn,Quadrupel (Quad),4.0,3.5,Straffe Toeback,9.5,53308
+911,Klosterbrauerei Andechs,1280449111,4.0,3.5,3.5,Mora2000,Maibock / Helles Bock,4.0,4.0,Andechser Bergbock Hell,6.9,6724
+812,Marin Brewing Company,1270437521,4.0,4.0,4.0,emmasdad,American IPA,4.0,4.0,Marin India Pale Ale,7.0,2519
+13271,Les Brasseurs,1269460399,2.5,2.5,2.5,Nickls,Flanders Oud Bruin,3.0,2.5,Lion,,29136
+209,Guinness Ltd.,1205554359,2.0,2.0,2.5,brdc,Euro Pale Lager,1.5,2.0,Harp Lager,5.0,862
+9790,The Duck-Rabbit Craft Brewery,1204775918,4.5,4.0,4.5,nlmartin,Milk / Sweet Stout,4.0,4.5,Duck-Rabbit Milk Stout,5.7,20216
+287,"Bell's Brewery, Inc.",1251151103,4.5,4.0,4.5,cdizinno,American Amber / Red Ale,4.5,4.5,Bell's Amber Ale,5.8,794
+252,Bayerische Staatsbrauerei Weihenstephan,1205422911,3.5,3.5,3.5,Phyl21ca,Hefeweizen,3.5,3.5,Weihenstephaner Hefeweissbier,5.4,731
+99,Matt Brewing Company,1304038540,4.0,4.0,4.0,mikesgroove,American Double / Imperial Stout,3.5,4.0,Saranac Imperial Stout,9.0,39272
+6372,Fort Collins Brewing,1211239628,3.5,3.5,4.0,Bitterbill,American Double / Imperial Stout,3.5,3.5,Double Chocolate Stout,8.1,40798
+540,Brouwerij De Horste,1073887851,3.5,4.0,3.5,TheLongBeachBum,Belgian Strong Pale Ale,4.0,4.0,Beatrix,10.0,5832
+2743,Green Flash Brewing Co.,1296306767,4.0,4.5,4.0,inlimbo77,American IPA,4.0,4.5,Green Flash West Coast I.P.A.,7.3,22505
+318,Castello Di Udine S.p.A.,1303380662,3.5,3.5,3.0,xylophonica,Bock,3.0,3.5,Castello Rossa,6.5,68274
+150,"Lion Brewery, Inc.",1246478809,1.5,2.0,3.5,bonbini26,American Amber / Red Lager,2.0,2.0,Stegmaier Amber Lager,5.3,47413
+30,Avery Brewing Company,1316846698,4.0,4.5,4.5,Justin23060,American Brown Ale,4.5,4.0,Ellie's Brown Ale,5.5,2894
+877,River Horse Brewing Co.,1131142250,4.0,4.0,3.5,Billolick,American Pale Ale (APA),3.5,3.5,River Horse Hop Hazard Pale Ale,6.5,3680
+339,Flying Fish Brewing Company,1316981882,4.0,4.5,4.0,properhops,Dubbel,3.5,3.5,Belgian Style Dubbel,7.0,1027
+1199,Founders Brewing Company,1277866353,5.0,4.5,4.5,newk340,American Double / Imperial Stout,4.5,5.0,Founders KBS (Kentucky Breakfast Stout),11.2,19960
+339,Flying Fish Brewing Company,1244611399,4.0,3.0,3.0,matty,Dubbel,4.0,4.0,Belgian Style Dubbel,7.0,1027
+99,Matt Brewing Company,1263867974,4.0,4.0,3.5,LumpyGuitar,American Pale Ale (APA),4.0,4.0,Saranac Big Moose Ale,5.3,53202
+435,Minhas Craft Brewery,1180933841,3.0,4.0,3.5,Ricochet,Euro Dark Lager,3.0,3.5,Berghoff Genuine Dark Beer,5.4,1315
+147,Stone Brewing Co.,1300591448,4.0,4.0,4.0,oldsailor,American Black Ale,4.0,4.0,Stone Sublimely Self-Righteous Ale,8.7,38470
+1549,Goose Island Beer Co.,1275532030,4.0,5.0,4.5,djbreezy,American Double / Imperial Stout,4.5,5.0,Bourbon County Brand Stout,14.5,10672
+16315,BrewDog,1206412241,3.5,3.5,4.0,prototypic,American Double / Imperial Stout,3.5,3.5,BrewDog Paradox Speyside (Batch 005) - Glen Moray 1992,10.0,41680
+700,Elysian Brewing Company,1227413367,3.5,4.0,3.0,lackenhauser,American IPA,3.5,4.0,Avatar Jasmine IPA,6.3,20771
+454,Arcadia Brewing Company,1297007413,3.5,3.5,4.0,salvo,Old Ale,4.0,4.0,Arcadia Big Dick's Olde Ale,8.0,33426
+132,Rogue Ales,1324358353,4.0,4.0,3.5,biboergosum,Smoked Beer,3.5,4.0,Voodoo Doughnut Maple Bacon Ale,5.6,72720
+744,Little Creatures Brewing Company,1251388662,4.5,4.0,4.0,mulder1010,American Pale Ale (APA),4.0,4.0,Little Creatures Pale Ale,5.2,3327
+35,Boston Beer Company (Samuel Adams),1266290690,4.0,4.0,4.0,riored4v,Tripel,4.5,4.0,Samuel Adams New World Tripel (Barrel Room Collection),10.0,53773
+284,Sapporo Breweries Ltd.,1172936373,3.0,2.0,2.5,bort11,Japanese Rice Lager,3.0,2.0,Sapporo Premium Beer,5.0,10071
+105,Miller Brewing Co.,1321196186,3.0,2.0,2.5,TippySelenoid,American Malt Liquor,3.0,3.0,Mickey's,5.6,810
+4475,Braucommune in Freistadt,1092456001,4.0,3.0,3.0,rkhaze,Märzen / Oktoberfest,4.0,3.5,Marzen,4.9,19317
+26,Three Floyds Brewing Co. & Brewpub,1208304796,4.5,4.0,4.5,younger35,American Porter,4.5,4.5,Alpha Klaus Christmas (Xmas) Porter,6.0,7438
+48,Brouwerij Van Steenberge N.V.,1307391539,4.0,4.0,4.5,puboflyons,Belgian Pale Ale,3.5,4.0,Bruegel Amber Ale,5.2,1645
+19897,Evolution Craft Brewing Company,1302549729,4.0,3.0,4.0,BZero007,American Strong Ale,4.0,4.5,Winter Migration (2010 Bourbon-Barrel Dark Ale),10.5,65746
+863,Russian River Brewing Company,1290358256,5.0,4.0,4.5,woosterbill,American IPA,3.0,4.0,Blind Pig IPA,6.1,22790
+3521,De Proefbrouwerij (bvba Andelot),1175103212,4.0,4.0,4.0,BEERchitect,Dubbel,3.5,4.0,Andelot Cuvee Angelique,7.0,19257
+75,Grupo Modelo S.A. de C.V.,1200373086,1.5,2.0,2.0,MisterClean,American Adjunct Lager,1.5,2.0,Corona Extra,4.6,232
+379,Moosehead Breweries Ltd.,1280615505,4.5,3.5,2.5,WeezyBoPeep,American Pale Lager,3.5,3.5,Moosehead Lager,5.0,1053
+10097,Harpoon Brewery,1097193239,4.0,3.5,4.0,ElGordo,Märzen / Oktoberfest,3.5,3.5,Harpoon Octoberfest Beer,5.5,313
+287,"Bell's Brewery, Inc.",1283302273,3.0,3.0,3.5,bierenutz,Märzen / Oktoberfest,3.0,3.5,Bell's Octoberfest Beer,5.5,32695
+392,Weyerbacher Brewing Co.,1276112927,4.5,4.0,4.5,jeffthecheff,American IPA,4.5,4.0,India,7.2,56074
+4067,Fordham Brewing Company,1249252770,4.5,4.0,4.0,bum732,Altbier,3.5,3.0,Fordham Copperhead Ale,4.7,4043
+192,New Belgium Brewing,1066065805,4.0,4.0,4.0,Nytemare,American Amber / Red Ale,3.5,4.0,Fat Tire Amber Ale,5.2,607
+3049,Elgood and Sons Ltd,1221271098,4.5,3.0,4.0,gford217,English Porter,3.5,3.5,Original Flag Porter 1825,5.0,7282
+158,Great Divide Brewing Company,1228780690,4.5,4.0,4.5,magictrokini,Russian Imperial Stout,4.5,5.0,Oak Aged Yeti Imperial Stout,9.5,19216
+507,Gulpener Bierbrouwerij B.V.,1187746538,4.5,4.5,4.0,Shades,Flanders Oud Bruin,4.0,4.5,Mestreechs Aajt (US - Non-Saccharin Version),5.0,17879
+423,Boulevard Brewing Co.,1230018775,4.5,4.5,4.5,Reaper16,American IPA,4.0,4.0,Single-Wide I.P.A.,5.7,46606
+142,Spaten-Franziskaner-Bräu,1124581573,4.0,4.0,4.0,Albinoh,Munich Helles Lager,3.0,3.5,Spaten Münchner Hell (Premium Lager),5.2,1944
+396,AleSmith Brewing Company,1308161470,4.5,4.5,4.0,Knapp85,Belgian Strong Dark Ale,4.0,4.5,AleSmith Grand Cru Ale,10.0,27371
+287,"Bell's Brewery, Inc.",1022262340,3.0,4.0,4.0,Wildman,Czech Pilsener,3.0,3.0,Bell's Beer,5.3,3070
+3,Abita Brewing Co.,1217899920,3.0,4.0,4.0,drinksandeats,American IPA,4.0,3.0,Jockamo IPA,6.5,39390
+119,Otter Creek Brewing / Wolaver's,1297205907,4.0,4.0,4.5,cavedave,American Black Ale,3.5,4.5,Otter Creek (Alpine) Black IPA,6.0,62050
+140,Sierra Nevada Brewing Co.,1259969541,2.5,2.5,2.5,seanyfo,Extra Special / Strong Bitter (ESB),3.0,2.5,Sierra Nevada ESB (Early Spring Beer),5.9,40492
+142,Spaten-Franziskaner-Bräu,1227684451,4.5,4.0,4.5,callmescraps,Hefeweizen,3.0,3.5,Franziskaner Hefe-Weisse,5.0,1946
+22951,Clown Shoes,1310093654,4.0,4.0,4.0,ArrogantDeadGuy,Witbier,4.0,4.0,Clementine,6.0,58609
+205,Buffalo Bill's Brewery,1064795914,3.5,4.5,4.0,hatchethead,Pumpkin Ale,3.0,4.0,Buffalo Bill's Pumpkin Ale,5.2,643
+697,Kiuchi Brewery,1175048245,3.0,3.5,3.5,marcobrau,Belgian Strong Pale Ale,4.0,3.5,Hitachino Nest Red Rice Ale,7.0,4770
+870,Moylan's Brewery,1292465843,3.5,5.0,5.0,TheSquirrel801,American Double / Imperial IPA,5.0,5.0,Hopsickle Imperial India Pale Ale,9.2,25259
+47,Brouwerij Boon,1143409254,4.5,4.5,4.5,skye,Lambic - Fruit,4.5,4.5,Boon Oude Kriek,6.5,8047
+18149,The Lost Abbey,1282779805,4.0,4.0,4.5,SamN,American Strong Ale,5.0,4.5,The Angel's Share - Brandy Barrel-Aged,12.0,42296
+141,Smuttynose Brewing Company,1299779698,4.5,4.5,4.0,sprucetip,Doppelbock,3.5,4.5,Smuttynose S'muttonator (Big Beer Series),8.5,21296
+2097,Kuhnhenn Brewing Company,1270001926,1.0,4.5,4.0,seaoflament,American Double / Imperial Stout,2.0,1.5,Kuhnhenn Imperial Crème Brûlée Java Stout,8.0,54993
+918,Hops Grillhouse & Brewery,1140318671,3.0,3.0,3.0,Jredner,English Brown Ale,3.0,3.0,Hops Alligator Ale,,2922
+48,Brouwerij Van Steenberge N.V.,1143131816,4.5,4.0,4.0,BuckeyeNation,Belgian Pale Ale,4.0,4.5,Bière Du Boucanier Red,7.0,20237
+29,Anheuser-Busch,1232194621,4.0,2.0,3.0,WakeandBake,American Adjunct Lager,3.0,3.0,Natural Ice,5.9,653
+113,Samuel Smith Old Brewery (Tadcaster),1045928673,4.5,4.0,4.0,StevieW,Euro Pale Lager,4.0,4.5,Samuel Smith's Pure Brewed Lager Beer,5.0,574
+2641,New Old Lompoc Brewery,1307638654,4.0,3.5,4.0,canucklehead,Milk / Sweet Stout,4.0,4.0,Sockeye Cream Stout,5.8,12174
+141,Smuttynose Brewing Company,1318917026,4.0,3.0,4.0,ChadQuest,Russian Imperial Stout,4.5,4.0,Smuttynose Imperial Stout (Big Beer Series),9.8,185
+18371,Pretty Things Beer & Ale Project,1257118767,3.5,3.5,3.5,capra12,Saison / Farmhouse Ale,4.0,3.5,Jack D'or,6.4,46290
+610,Bear Republic Brewing Co.,1274378047,3.0,4.0,3.5,champ103,American Double / Imperial IPA,3.5,3.0,Apex,7.5,22172
+887,Utenos Alus,1289000409,3.5,3.5,3.0,Bouleboubier,Baltic Porter,4.0,3.5,Porter,6.8,4878
+162,Ipswich Ale Brewery,1128637182,4.0,4.0,4.0,Hibernator,American Amber / Red Ale,4.0,4.5,Ipswich Harvest Ale,6.9,25581
+45,Brooklyn Brewery,1246332284,4.0,4.0,4.5,aristeros,Belgian Strong Pale Ale,5.0,4.0,Brooklyn Local 1,9.0,35328
+1627,Eel River Brewing Co.,1298020387,2.0,2.0,2.0,AwYeh,Fruit / Vegetable Beer,2.0,2.0,Acai Berry Wheat,4.0,48953
+3818,Southern Tier Brewing Company,1303595155,4.5,4.5,4.0,seanyfo,American Double / Imperial Stout,5.0,4.5,Choklat,11.0,40058
+35,Boston Beer Company (Samuel Adams),1225997276,4.0,3.5,3.0,jlruthven84,Winter Warmer,3.5,4.0,Samuel Adams Old Fezziwig Ale,5.9,1881
+10099,Dogfish Head Brewery,1175786795,3.0,4.0,4.0,zebulon,American Double / Imperial IPA,3.5,4.5,Burton Baton,10.0,18862
+296,St. Peter's Brewery Co Ltd,1132216346,4.0,4.0,4.0,mdagnew,Milk / Sweet Stout,4.0,5.0,St. Peter's Cream Stout,6.5,2442
+261,Cisco Brewers Inc.,1316990750,3.0,4.0,4.0,oberon,American IPA,3.0,3.0,Indie Pale Ale,7.58,40242
+147,Stone Brewing Co.,1240537515,3.5,4.5,4.5,Jekster,American Amber / Red Ale,4.0,4.0,Stone Levitation Ale,4.4,6301
+9865,Brewsters Brewing Company & Restaurant - Lake Bonavista,1129175930,3.0,2.5,2.5,BigRedN,American Pale Lager,3.0,3.0,Flying Frog Lager,5.0,25961
+5318,Port Brewing Company / Pizza Port,1297150789,4.5,4.0,4.0,womencantsail,Hefeweizen,4.0,4.5,Flying Hawaiin Hefeweizen,6.5,65659
+132,Rogue Ales,1043945182,4.5,4.0,4.5,TheJoj,American Porter,4.0,4.5,Mocha Porter,5.3,353
+48,Brouwerij Van Steenberge N.V.,1221462318,4.5,4.0,3.5,jenitivecase,Flanders Oud Bruin,4.0,3.5,Monk's Café Flemish Sour Ale,5.5,10482
+197,Brasserie Fischer / Fischer Biere d' Alsace,1092349802,4.0,3.5,3.5,Bourre,Euro Pale Lager,4.0,3.5,Pêcheur,,19304
+132,Rogue Ales,1143594181,5.0,4.0,5.0,MrHolland,Oatmeal Stout,5.0,4.5,Shakespeare Oatmeal Stout,6.1,56973
+45,Brooklyn Brewery,1275077544,5.0,4.0,4.5,GregoryVII,American Amber / Red Lager,4.0,4.0,Brooklyn Lager,5.2,148
+418,Left Hand Brewing Company,1252008307,2.5,4.5,5.0,Scriba,American Double / Imperial Stout,3.5,3.5,Oak Aged Imperial Stout,10.0,15915
+139,Shipyard Brewing Co.,1194658198,3.0,3.0,3.0,Gmann,English India Pale Ale (IPA),3.5,3.5,Shipyard IPA,5.8,693
+454,Arcadia Brewing Company,1139674118,4.5,4.0,4.5,DrJay,American Double / Imperial IPA,3.5,3.5,Arcadia HopMouth Double IPA,8.1,27286
+18,Freeminer Brewery Ltd.,1044897371,4.0,3.5,3.0,schoolteacher,Herbed / Spiced Beer,3.5,4.0,Shakemantle Ginger Ale,5.0,856
+285,Brauerei Schloss Eggenberg,1148309310,4.0,4.0,4.5,davidchollar,Doppelbock,4.0,4.0,Samichlaus Bier,14.0,776
+648,Köstritzer Schwarzbierbrauerei GmbH & Co.,1320803039,4.5,4.0,4.0,Kartoffeln,Schwarzbier,4.5,4.0,Köstritzer Schwarzbier,4.8,1774
+273,SweetWater Brewing Company,1237257021,3.0,2.5,3.0,nsmartell,American Pale Ale (APA),3.0,3.5,Sweetwater 420 Extra Pale Ale,5.4,751
+10099,Dogfish Head Brewery,1300335336,4.0,3.5,4.0,patoakes7,American IPA,4.5,4.5,ApriHop,7.0,3951
+10099,Dogfish Head Brewery,1255480621,5.0,4.0,3.5,jeffjeff1,Pumpkin Ale,4.5,4.5,Punkin Ale,7.0,6260
+47,Brouwerij Boon,1273369387,5.0,3.5,3.5,pmlondrigan,Gueuze,4.5,4.0,Boon Oude Geuze Mariage Parfait,8.0,5357
+17981,Cigar City Brewing,1270737726,4.5,4.5,4.5,PittBeerGirl,Russian Imperial Stout,5.0,4.5,110K+OT Batch #2 - I.R.I.S. - Barrel Aged,11.5,51469
+739,Brouwerij De Ranke,1126560736,4.0,5.0,4.0,bark,Belgian IPA,4.5,4.5,De Ranke XX Bitter,6.2,2656
+73,Great Lakes Brewing Company,1271295074,3.5,3.0,4.5,taylorhamrick,English India Pale Ale (IPA),3.0,3.5,Great Lakes Commodore Perry IPA,7.5,1575
+18149,The Lost Abbey,1176674772,4.0,3.5,4.5,hoppymeal,Bière de Garde,4.0,3.5,Avant Garde,7.0,30423
+13014,Surly Brewing Company,1296938475,4.0,4.5,4.0,nkersten,American Double / Imperial IPA,4.0,4.0,Abrasive Ale,9.0,46849
+5,Yakima Brewing Co. / Bert Grant's Ales,1079903767,4.0,3.0,3.5,pheurton,Scottish Ale,3.0,3.0,Bert Grant's Scottish Ale,4.7,11
+20688,16 Mile Brewing Company,1310773537,3.0,3.0,4.5,woodychandler,American Blonde Ale,3.5,3.0,Blues' Golden Ale,5.9,60135
+446,Traverse Brewing Company,1031410336,3.5,4.0,3.5,stoutman,American Amber / Red Ale,3.5,4.0,Traverse Brewing Manitou Amber Ale,5.2,3915
+763,Moonlight Brewing Company,1163030735,5.0,3.5,4.5,TikkiGodxxx,Czech Pilsener,5.0,4.5,Reality Czeck,4.8,22173
+433,Molson Coors Canada,1005822422,2.0,2.0,3.0,John,American Amber / Red Ale,2.0,2.0,Rickard's Red,5.2,2037
+22511,Hill Farmstead Brewery,1309920958,4.5,5.0,4.5,Thorpe429,American Double / Imperial IPA,5.0,5.0,Galaxy Imperial Single Hop IPA,8.0,67760
+193,Anderson Valley Brewing Company,997094366,5.0,4.0,4.0,Todd,Oatmeal Stout,5.0,5.0,Barney Flats Oatmeal Stout,5.7,615
+15711,HaandBryggeriet,1291952029,4.0,4.0,4.0,Neffbeer,Winter Warmer,4.0,4.5,Bestefar,9.0,63901
+418,Left Hand Brewing Company,1175885252,3.5,4.5,4.5,allengarvin,American Double / Imperial Stout,4.0,4.0,Oak Aged Imperial Stout,10.0,15915
+202,Brouwerij Bosteels,1299892982,5.0,4.5,4.5,BelgiumBill,Tripel,4.5,5.0,Tripel Karmeliet,8.4,656
+396,AleSmith Brewing Company,1174262755,4.0,5.0,5.0,WeisGuy,American Double / Imperial Stout,4.0,5.0,AleSmith Speedway Stout,12.0,3833
+14879,Hoppin' Frog Brewery,1201145334,4.5,4.5,4.5,stopbarking,Russian Imperial Stout,4.0,4.0,B.O.R.I.S. The Crusher Oatmeal-Imperial Stout,9.4,33644
+35,Boston Beer Company (Samuel Adams),1171246732,3.5,4.0,3.5,DoubleJ,English Brown Ale,4.0,3.5,Samuel Adams Brown Ale,5.35,27514
+1199,Founders Brewing Company,1290818602,4.0,4.5,3.5,codewarrior,Scotch Ale / Wee Heavy,4.0,4.0,Founders Backwoods Bastard,10.2,35036
+741,"Lakefront Brewery, Inc.",1232925163,4.0,3.5,4.0,riversider76,Munich Dunkel Lager,4.0,3.5,Eastside Dark,5.52,2220
+215,Bières de Chimay S.A.,1162057476,4.5,4.5,4.0,barneby,Dubbel,4.5,5.0,Chimay Première (Red),7.0,672
+1628,Southampton Publick House,1130191821,4.5,4.0,3.5,far333,American IPA,3.5,4.5,Southampton IPA,6.5,8312
+1837,Buckeye Brewing Company,1154129334,4.0,4.0,4.5,bluejacket74,Foreign / Export Stout,3.5,4.5,Old Mammoth Stout,6.5,7862
+1549,Goose Island Beer Co.,1272833260,4.5,4.5,4.5,Blakaeris,American Double / Imperial Stout,4.5,5.0,Bourbon County Brand Coffee Stout,13.0,57747
+2743,Green Flash Brewing Co.,1239625271,4.5,4.5,4.0,yesyouam,American IPA,4.5,4.5,Green Flash West Coast I.P.A.,7.3,22505
+28,Anchor Brewing Company,1151757664,3.0,3.5,3.5,bigdeuce,English Barleywine,3.0,3.5,Anchor Old Foghorn,8.2,1445
+16060,Weeping Radish Eco Farm & Brewery,1191199866,4.0,4.0,4.0,akorsak,Märzen / Oktoberfest,4.0,4.0,Fest Amber Lager,5.2,38883
+173,Hair of the Dog Brewing Company / Brewery and Tasting Room,1249092893,4.5,4.5,4.5,DarkerTheBetter,American Strong Ale,4.0,5.0,Fred From The Wood,10.0,20768
+2641,New Old Lompoc Brewery,1268277013,2.5,3.0,3.0,aeroguy,American Strong Ale,3.0,2.0,LSD (Lompoc Strong Draft),6.9,9700
+5318,Port Brewing Company / Pizza Port,1204674436,4.5,4.0,4.0,RblWthACoz,American Double / Imperial IPA,4.0,4.5,Hop 15,10.0,31323
+841,Brasserie à Vapeur,1064465902,3.0,3.5,4.0,gueuzeonhigh,Belgian Strong Pale Ale,4.0,3.5,Vapeur En Folie,8.0,5253
+1114,Bullfrog Brewery,1263514580,4.5,4.5,4.0,glid02,American IPA,4.0,4.5,Undead Ed,,52805
+1567,Brew Moon Restaurant & Microbrewery,956966401,3.5,3.5,2.0,Todd,Lambic - Fruit,4.0,4.0,Brew Moon Fris Opdienen,,559
+73,Great Lakes Brewing Company,1248984738,1.5,1.5,3.5,hossua34,Saison / Farmhouse Ale,3.5,2.0,Great Lakes Grassroots Ale,6.2,45558
+2796,Brouwerij 't Gaverhopke,1295061309,4.5,4.5,4.0,sitarist,Saison / Farmhouse Ale,4.0,4.0,Koerseklakske,5.5,64091
+583,Saint Louis Brewery / Schlafly Tap Room,1065809997,3.5,3.5,4.0,maxpower,Saison / Farmhouse Ale,3.5,3.5,Schlafly Saison,6.2,10317
+12516,Thirsty Dog Brewing Company,1261078184,4.0,4.5,4.0,natelocc787,Russian Imperial Stout,3.5,3.5,Siberian Night Imperial Stout,9.7,8023
+364,Maritime Pacific Brewing Company,1180154898,5.0,5.0,5.0,ChrisCastillo,American Double / Imperial IPA,5.0,5.0,Imperial Pale Ale,7.5,957
+147,Stone Brewing Co.,1321919109,3.5,3.5,4.0,AshleyMiller,Pumpkin Ale,4.0,3.5,The Bruery / Elysian / Stone La Citrueille Celeste De Citracado,5.0,74272
+141,Smuttynose Brewing Company,1319516967,3.5,4.0,4.0,Lemke10,Pumpkin Ale,3.5,3.5,Smuttynose Pumpkin Ale,6.0,11819
+911,Klosterbrauerei Andechs,1258389038,4.0,4.5,4.5,BillyBoysPie,Doppelbock,4.5,4.5,Andechser Doppelbock Dunkel,7.1,2899
+198,De Ridder Brewery,1064956919,5.0,4.5,4.0,NeroFiddled,Witbier,4.0,4.5,Wieckse Witte,5.0,625
+4045,Russell Brewing Company,1247890458,4.5,3.5,4.0,Maltzilla,English India Pale Ale (IPA),4.0,4.0,IP'eh!,6.5,49822
+287,"Bell's Brewery, Inc.",1271017610,5.0,4.0,4.0,jmich24,American Pale Wheat Ale,4.0,4.0,Bell's Oberon Ale,5.8,1094
+68,Flying Dog Brewery,1209340521,4.0,3.0,3.0,robbyc1,Witbier,3.5,3.5,Woody Creek White,4.8,37014
+4,Allagash Brewing Company,1230312423,2.0,3.0,3.5,LilBeerDoctor,Tripel,2.5,2.5,Allagash Curieux (Bourbon Barrel-Aged Tripel),11.0,16909
+403,"Pyramid Breweries, Inc.",1145583501,2.0,3.0,2.0,goochpunch,American IPA,4.0,2.0,Thunderhead IPA,6.7,1544
+215,Bières de Chimay S.A.,1062441138,4.5,5.0,4.5,marburg,Tripel,4.5,4.5,Chimay Tripel (White),8.0,1346
+283,Brouwerij Liefmans,1325781092,4.5,5.0,4.5,XicanoBeerRun,Flanders Oud Bruin,4.5,4.5,Goudenband,8.0,773
+2743,Green Flash Brewing Co.,1296711755,4.0,4.5,4.0,canucklehead,American Barleywine,4.0,4.0,Barleywine Style Ale,10.9,33599
+201,Brouwerij De Dolle Brouwers,1135654727,4.0,4.5,4.5,filabrazilia,Tripel,4.0,4.0,De Dolle Dulle Teve (Mad Bitch),10.0,1116
+2372,Terrapin Beer Company,1286369534,4.0,3.5,4.0,nlmartin,American Brown Ale,4.0,4.0,Terrapin Hop Karma IPA,6.0,36195
+583,Saint Louis Brewery / Schlafly Tap Room,1292640984,3.5,3.5,4.0,thetomG,Russian Imperial Stout,3.5,3.5,Schlafly Reserve - Imperial Stout,10.5,33894
+1550,Rock Bottom Restaurant & Brewery,1127399322,3.5,3.5,4.0,DrunkMcDermott,Extra Special / Strong Bitter (ESB),3.0,3.5,Rock Bottom JB's Extra Special Bitter,,25967
+26,Three Floyds Brewing Co. & Brewpub,1185854015,4.0,3.5,3.0,Halcyondays,Scottish Ale,3.5,3.5,Robert The Bruce Scottish Ale,6.5,1159
+3835,Drake's Brewing Co.,1099951828,4.0,4.0,4.0,Boilermaker88,Extra Special / Strong Bitter (ESB),4.0,4.0,Drake's Amber Ale,5.9,8304
+143,Spoetzl Brewery,1249866979,4.0,3.5,4.0,homebrewhawk,Schwarzbier,4.0,3.5,Bohemian Black Lager,4.9,32575
+710,Jacob Leinenkugel Brewing Company,1033664965,2.0,3.0,4.0,aaronh,Euro Dark Lager,2.5,2.0,Leinenkugel's Creamy Dark,4.9,2940
+69,"Wild Goose Brewery, LLC",1128046129,3.5,3.5,4.0,EPseja,English Brown Ale,3.0,4.0,Blue Ridge HopFest,4.8,2119
+3463,Brouwerij Contreras,1294717322,3.5,3.5,3.5,BeerAdvocate,Belgian Pale Ale,3.5,4.0,Valeir Blond,6.5,57082
+203,Greene King / Morland Brewery,1170557174,3.0,3.0,4.0,RoyalT,English Pale Ale,3.5,3.0,Hen's Tooth,6.5,878
+12985,Laughing Dog Brewing,1299471678,3.5,3.5,3.5,Glibber,American IPA,3.5,4.0,Laughing Dog Rocket Dog Rye IPA,6.9,60305
+45,Brooklyn Brewery,1253497316,4.0,4.0,4.0,heliosphann,Russian Imperial Stout,3.5,3.5,Brooklyn Black OPS,10.7,40149
+458,Real Ale Brewing Company,1235883100,4.0,2.0,3.0,jujubeast6000,American Porter,4.0,3.5,Shade Grown Coffee Porter,6.3,14660
+22928,Barrier Brewing Company,1303868907,3.5,4.0,4.0,metter98,Belgian Pale Ale,4.0,4.0,Barrier Belgian #1,7.5,60817
+149,Brasserie Lefèbvre SA,1076437795,2.0,3.0,3.0,GreenCard,Saison / Farmhouse Ale,3.0,2.5,Saison 1900,6.7,8937
+394,Stoudts Brewing Co.,1083616358,4.0,4.0,4.0,sulldaddy,American IPA,3.5,4.5,Stoudt's India Pale Ale,7.5,3517
+898,Heavy Seas Beer,1167578431,3.0,3.0,3.0,Cresant,Saison / Farmhouse Ale,3.0,2.5,Heavy Seas - Red Sky At Night (Saison Ale),7.5,17625
+345,Victory Brewing Company,1287701469,3.5,3.5,3.5,audioserf,American Double / Imperial IPA,3.5,3.5,Hop Wallop,8.5,14916
+140,Sierra Nevada Brewing Co.,1291422102,3.5,3.5,4.5,sjverla,American IPA,4.0,4.0,Sierra Nevada Celebration Ale,6.8,1904
+141,Smuttynose Brewing Company,1252448832,4.5,3.5,4.0,tempest,Belgian Pale Ale,4.0,4.0,Smuttynose Star Island Single,5.1,43132
+22893,Epic Brewing Co.,1317516920,4.0,4.0,3.5,smakawhat,Fruit / Vegetable Beer,4.0,4.0,Brainless On Peaches Belgian Style Ale,10.5,62823
+139,Shipyard Brewing Co.,1052673273,3.5,4.0,3.5,feloniousmonk,English India Pale Ale (IPA),3.5,3.5,Shipyard IPA,5.8,693
+132,Rogue Ales,1119069563,3.0,4.0,3.5,silver0rlead,Fruit / Vegetable Beer,3.5,4.0,Buckwheat Ale,4.8,1194
+435,Minhas Craft Brewery,1262566540,4.5,3.0,4.0,Brettster,American Pale Ale (APA),3.0,4.0,Berkshire Springs Stock Ale,6.0,21007
+610,Bear Republic Brewing Co.,1315011842,4.0,4.5,4.0,mltobin,American IPA,4.0,4.0,Racer 5 India Pale Ale,7.0,2751
+112,North Coast Brewing Co.,1079327995,4.0,4.5,4.0,FranklinPCombs,Belgian Strong Pale Ale,4.0,4.5,Pranqster,7.6,411
+45,Brooklyn Brewery,1298843419,2.0,4.5,4.0,Jesse13713,Belgian Strong Dark Ale,2.0,2.5,Brooklyn Local 2,9.0,47678
+1549,Goose Island Beer Co.,1268009687,3.5,4.0,4.0,brewdoc75,Belgian Pale Ale,4.5,3.5,Demolition,7.2,49003
+915,New Zealand Breweries Limited,1191641533,3.0,2.0,2.0,Floydster,Euro Pale Lager,3.0,2.5,Steinlager,5.0,2945
+3042,BJ's Restaurant & Brewhouse,1187389057,3.5,4.0,4.0,Bierguy5,American Double / Imperial Stout,4.0,3.5,Tatonka Stout,8.5,24483
+4067,Fordham Brewing Company,1257575969,3.0,3.0,4.5,BatsforBeer,Altbier,3.0,2.5,Fordham Copperhead Ale,4.7,4043
+8,Widmer Brothers Brewing Company,1322460267,4.5,4.0,4.0,mactrail,Winter Warmer,3.5,4.0,Brrr,7.2,45454
+1135,"Franklin's Restaurant, Brewery & General Store",1163137497,4.5,3.0,2.5,mrasskicktastic,American Amber / Red Lager,4.0,3.5,Smokey The Beer,5.0,33648
+18120,Trinity Brewing Company,1266618866,4.0,4.0,4.0,Mora2000,Eisbock,4.0,4.0,Stop Making Sense Eisbock,10.0,55764
+870,Moylan's Brewery,1323242626,3.5,4.5,4.0,gpogo,American IPA,3.0,3.0,NorCal IPA,6.9,60023
+870,Moylan's Brewery,1301226674,4.0,4.0,4.5,JizackFH,American Double / Imperial IPA,4.5,5.0,Hopsickle Imperial India Pale Ale,9.2,25259
+1534,Brouwerij Het Anker,1279838488,3.0,3.5,3.5,treque,Belgian IPA,4.0,4.0,Gouden Carolus Hopsinjoor,8.0,42079
+285,Brauerei Schloss Eggenberg,1211648196,4.0,3.0,4.0,charlzm,Doppelbock,4.5,3.5,Samichlaus Bier,14.0,776
+137,Sea Dog Brewing Company,1079130565,2.0,2.0,3.5,scriabin,Fruit / Vegetable Beer,3.0,2.0,Sea Dog Blue Paw Wheat Ale,4.6,345
+19897,Evolution Craft Brewing Company,1276205536,4.0,4.0,4.0,johnmichaelsen,American Double / Imperial IPA,4.0,4.0,Lot No6 Double India Pale Ale,9.3,56467
+28,Anchor Brewing Company,1158809823,4.5,4.5,4.0,dblinkhorn,Winter Warmer,4.0,4.5,Our Special Ale 2005 (Anchor Christmas Ale),5.8,26756
+583,Saint Louis Brewery / Schlafly Tap Room,1126113124,4.0,3.5,3.5,tah908,Extra Special / Strong Bitter (ESB),3.5,4.5,Schlafly Winter ESB,6.2,1623
+948,Waimea Brewing Company,1159053077,3.5,3.0,3.5,arizcards,American Adjunct Lager,3.5,3.5,Luau Lager,,18520
+85,Pioneer Brewing Co.,1109970322,4.0,4.0,4.0,CRJMellor,American Stout,3.5,4.0,Pioneer Stout,5.0,1195
+870,Moylan's Brewery,1252034202,2.5,3.5,3.0,KJH,American Barleywine,2.5,3.0,Old Blarney Barleywine,10.0,2874
+863,Russian River Brewing Company,1299459826,4.0,4.0,4.0,sentomaster,American IPA,4.0,4.0,Blind Pig IPA,6.1,22790
+863,Russian River Brewing Company,1250285689,4.5,4.5,4.0,morimech,American Double / Imperial IPA,4.5,5.0,Pliny The Elder,8.0,7971
+664,Wells & Young's Ltd,1178210265,4.5,5.0,4.5,DaveFromDetroit,Oatmeal Stout,4.5,5.0,Young's Oatmeal Stout,5.2,48050
+119,Otter Creek Brewing / Wolaver's,1165642189,3.5,4.0,3.5,bonbright7,Tripel,4.0,4.0,Holy Otter (Otter Creek World Tour),,31692
+127,Portland Brewing Company,1266707841,4.0,3.5,3.5,beertunes,American Amber / Red Ale,4.0,4.0,MacTarnahan's Amber Ale,5.0,461
+1628,Southampton Publick House,1245808945,3.5,3.5,4.0,dirtylou,Tripel,3.5,4.0,Southampton Triple Abbey Style Ale,8.0,37901
+429,Alaskan Brewing Co.,1173112687,4.0,4.0,4.5,todd1,American Porter,4.5,4.5,Alaskan Smoked Porter,6.5,1769
+4707,Choc Beer Co. / Pete's Place,1296173409,4.5,4.0,3.5,StaveHooks,American Pale Ale (APA),4.5,3.5,Basement Batch,6.8,37034
+132,Rogue Ales,1261574070,4.0,3.5,3.5,Kegatron,American Pale Ale (APA),4.5,4.0,Chatoe Rogue First Growth Wet Hop Ale,6.4,52743
+18968,Appalachian Brewing Company,1274807624,4.0,3.5,4.0,Kegatron,American Stout,4.0,4.0,Espresso Stout,4.5,56790
+113,Samuel Smith Old Brewery (Tadcaster),1272592868,4.5,3.5,4.0,kaseydad,Euro Pale Lager,4.0,4.0,Samuel Smith's Pure Brewed Lager Beer,5.0,574
+10397,Sly Fox Brewing Company,1242334653,4.0,3.5,3.5,PhillyStyle,American Pale Ale (APA),4.0,4.0,Phoenix Pale Ale,5.1,30452
+71,Fuller Smith & Turner PLC,1242511146,4.5,4.0,3.0,drunkboxer1,English Porter,4.5,4.5,Fuller's London Porter,5.4,221
+213,Narragansett Brewing Co.,1244402141,4.0,4.0,3.5,claytri,American Adjunct Lager,3.5,4.0,Narragansett Lager,5.1,7406
+863,Russian River Brewing Company,1217188392,4.5,4.0,4.0,orcasteve,Belgian Strong Pale Ale,4.0,4.5,Damnation,7.75,12770
+140,Sierra Nevada Brewing Co.,1138338226,4.0,3.0,3.5,rajendra82,English India Pale Ale (IPA),4.0,4.0,Sierra Nevada India Pale Ale,6.8,1607
+173,Hair of the Dog Brewing Company / Brewery and Tasting Room,1312753597,4.5,4.0,4.5,Cyberkedi,American Double / Imperial IPA,4.5,4.5,Blue Dot Double India Pale Ale,7.0,25265
+898,Heavy Seas Beer,1312764891,1.5,1.5,3.5,SWMeyer4141,American Double / Imperial Stout,1.5,1.0,Heavy Seas - Siren Noire Imperial Chocolate Stout,8.0,56270
+5062,Meantime Brewing Company Limited,1218649412,4.0,4.0,4.0,lordofthewiens,Scotch Ale / Wee Heavy,4.0,4.5,Scotch Ale,8.0,35601
+147,Stone Brewing Co.,1251260020,4.5,4.0,4.5,babaracas,American Strong Ale,4.0,4.5,Stone 13th Anniversary Ale,9.5,50795
+396,AleSmith Brewing Company,1260929967,5.0,5.0,5.0,soupyman10,American IPA,4.5,4.5,AleSmith IPA,7.25,3916
+762,Butte Creek Brewing Company,1153872901,3.0,4.0,3.5,ppoitras,American Porter,3.0,3.0,Butte Creek Organic Porter,6.1,2310
+12516,Thirsty Dog Brewing Company,1199154688,4.0,4.0,4.0,RblWthACoz,American Amber / Red Ale,3.5,4.0,Hoppus Maximus,5.0,27842
+450,Yards Brewing Co.,1186202791,3.5,3.5,4.0,Zorro,Herbed / Spiced Beer,3.0,4.0,Poor Richard's Tavern Spruce Ale,5.0,26892
+141,Smuttynose Brewing Company,1190037980,5.0,4.0,3.5,Slatetank,Saison / Farmhouse Ale,4.0,4.0,Smuttynose Farmhouse Ale (Big Beer Series),9.3,28305
+199,Ballast Point Brewing Company,1272855374,5.0,4.5,3.5,colts9016,American IPA,4.5,4.5,Sculpin India Pale Ale,7.0,29619
+13307,Mikkeller ApS,1290636575,3.0,5.0,4.0,philosobeer,Belgian Strong Pale Ale,3.5,4.0,Yeast Series: Brettanomyces,8.0,60031
+132,Rogue Ales,1206994668,5.0,4.5,4.0,ubermick,American Stout,4.5,5.0,Chocolate Stout,6.0,1118
+141,Smuttynose Brewing Company,1279368531,3.5,3.5,4.0,blackie,Belgian IPA,4.0,3.5,Smuttynose Homunculus (Big Beer Series),9.9,35225
+10099,Dogfish Head Brewery,1269649834,3.0,3.5,3.5,Lerxst,American Barleywine,4.0,3.5,Olde School Barleywine,15.04,6533
+35,Boston Beer Company (Samuel Adams),1313806985,2.0,2.5,5.0,Beaver13,American IPA,4.0,2.0,Samuel Adams Latitude 48 IPA,6.0,57252
+22893,Epic Brewing Co.,1313716727,4.0,3.5,4.5,eclipse54,Saison / Farmhouse Ale,3.5,4.0,Sour Apple Saison,7.8,59145
+811,Highland Brewing,1181969580,3.0,3.0,4.0,barefootbrewer,Winter Warmer,3.5,3.5,Highland Cold Mountain Winter Ale,5.8,7296
+12516,Thirsty Dog Brewing Company,1295567791,3.5,4.0,3.5,hdofu,Fruit / Vegetable Beer,3.5,3.5,Raspberry Ale,3.9,42204
+207,Brasserie de Rochefort,1288017935,5.0,5.0,4.0,jlandis,Quadrupel (Quad),4.0,5.0,Trappistes Rochefort 10,11.3,645
+140,Sierra Nevada Brewing Co.,1272222808,4.5,4.5,4.5,SLObeer,American IPA,5.0,4.5,Sierra Nevada Torpedo Extra IPA,7.2,30420
+41,Brouwerij Corsendonk,1067823068,5.0,4.0,5.0,Stubbie1,Dubbel,4.5,4.0,Corsendonk Pater / Abbey Brown Ale,7.5,138
+202,Brouwerij Bosteels,1256579851,4.0,4.0,4.5,Vengeance526,Tripel,4.5,4.0,Tripel Karmeliet,8.4,656
+35,Boston Beer Company (Samuel Adams),1301048998,3.5,3.0,4.0,erosier,Herbed / Spiced Beer,3.5,3.0,Longshot Honey B's Lavender Ale,5.5,67332
+451,Moat Mountain Smoke House & Brewing Co.,1255381063,4.0,4.0,4.5,ppoitras,Märzen / Oktoberfest,4.5,3.5,Moat Octoberfest / Märzen,7.0,11200
+96,Magic Hat Brewing Company,1249872771,3.5,4.0,3.5,puboflyons,American Amber / Red Ale,4.0,4.0,Roxy Rolles,5.1,33200
+429,Alaskan Brewing Co.,1213391867,5.0,3.5,4.0,Oxymoron,Altbier,3.5,4.0,Alaskan Amber,5.3,1309
+435,Minhas Craft Brewery,1208780380,1.5,2.5,2.0,merlin48,Hefeweizen,1.0,1.5,Berghoff Hefe-Weizen,5.2,1316
+22,Unibroue,1194226887,3.0,2.5,3.0,JamesS,Tripel,3.0,2.5,La Fin Du Monde,9.0,34
+1,"Plzensky Prazdroj, a. s.",1178326525,5.0,1.5,2.5,bozebus17,Czech Pilsener,4.0,3.0,Pilsner Urquell,4.4,429
+710,Jacob Leinenkugel Brewing Company,1293247202,3.5,4.5,4.5,theycallmedoc,Russian Imperial Stout,3.5,4.0,Big Eddy Russian Imperial Stout,9.5,39334
+345,Victory Brewing Company,1286942611,3.5,4.0,3.0,JoeAmerican77,Saison / Farmhouse Ale,3.5,4.0,Saison Du BUFF,6.8,61351
+3818,Southern Tier Brewing Company,1193526935,4.5,4.5,4.5,Zorro,American Double / Imperial Stout,4.5,4.0,Oat (Imperial Oatmeal Stout),11.0,21100
+866,Scotch Irish Brewing Company,1152754977,4.5,4.0,4.0,biegaman,American Brown Ale,4.5,4.0,Corporal Punishment,5.3,10366
+2098,Terminal Gravity Brewing Company,1115853694,3.5,4.0,4.0,brewandbbq,American IPA,3.5,4.0,Terminal Gravity IPA,6.9,5487
+256,Lost Coast Brewery and Cafe,1235093424,3.5,4.0,3.0,Azumel,Fruit / Vegetable Beer,3.0,3.5,Tangerine Wheat,5.0,31931
+388,Brasserie Cantillon,1264298979,5.0,4.5,4.0,mikesgroove,Lambic - Fruit,4.5,4.5,Cantillon Lou Pepe - Kriek,5.0,3659
+142,Spaten-Franziskaner-Bräu,1270091341,5.0,4.0,4.0,Scrapss,Hefeweizen,4.0,4.5,Franziskaner Hefe-Weisse,5.0,1946
+140,Sierra Nevada Brewing Co.,1255895261,4.0,4.5,4.5,Vengeance526,American IPA,4.5,4.0,Northern Hemisphere Harvest Wet Hop Ale,6.7,6549
+13014,Surly Brewing Company,1179248393,4.5,4.0,4.5,Bierguy5,American IPA,4.0,4.5,Furious,6.2,28203
+9790,The Duck-Rabbit Craft Brewery,1170639222,4.5,4.0,4.5,mikesgroove,American Porter,4.0,4.5,Duck-Rabbit Porter,5.7,19736
+94,Long Trail Brewing Co.,1292789897,3.5,4.0,3.5,puboflyons,American Amber / Red Ale,3.5,4.0,Centennial Red (Brewmaster Series),7.9,63343
+140,Sierra Nevada Brewing Co.,1157778967,3.0,4.0,4.0,MiScusi,American Porter,2.0,3.0,Sierra Nevada Porter,5.6,279
+35,Boston Beer Company (Samuel Adams),1137548747,3.5,3.0,3.0,Naes,English Pale Ale,3.0,3.5,Samuel Adams Pale Ale,5.25,833
+1549,Goose Island Beer Co.,1281554893,5.0,4.5,4.5,cbarrett4,Saison / Farmhouse Ale,4.5,5.0,Sofie,6.5,48824
+143,Spoetzl Brewery,1253226082,3.0,3.5,4.0,Slatetank,American Pale Lager,3.5,4.0,Shiner Blonde,4.4,1075
+94,Long Trail Brewing Co.,1304523423,3.0,3.0,3.0,sfsean28,Witbier,2.5,2.5,Belgian White,4.7,41182
+694,Tröegs Brewing Company,1300406124,4.5,5.0,4.5,hopheadjuice,American Amber / Red Ale,4.0,4.5,Tröegs Nugget Nectar,7.5,15881
+9897,Jolly Pumpkin Artisan Ales,1293241004,4.0,4.5,4.0,Tilley4,Belgian Strong Dark Ale,4.0,4.0,Noel De Calabaza,9.0,39267
+2681,Oskar Blues Grill & Brew,1194481994,4.0,4.0,4.0,Viggo,American Double / Imperial IPA,4.0,4.0,G'Knight Imperial Red Ale,8.7,8919
+178,J.W. Lees & Co (Brewers) Ltd,1283275632,4.0,4.0,4.0,ElGallo,English Barleywine,4.0,4.5,J.W. Lees Harvest Ale (Lagavulin Whisky Cask),11.5,25061
+17005,Two Beers Brewing Co.,1317785638,2.5,2.5,4.0,VaTechHopHead,American IPA,4.0,2.0,Trailhead ISA (India Session Ale),4.7,69549
+506,Grolsch Bierbrouwerij N.V.,1195875667,2.5,2.0,3.5,vancurly,Euro Pale Lager,2.0,2.5,Amsterdam Mariner,4.8,7788
+112,North Coast Brewing Co.,1303139167,4.5,4.5,4.5,Lemke10,Russian Imperial Stout,4.0,4.0,Old Rasputin Russian Imperial Stout,9.0,412
+158,Great Divide Brewing Company,1237523311,3.5,4.5,4.0,Tone,Old Ale,3.5,4.0,Hibernation Ale,8.7,1446
+784,Tyranena Brewing Company,1147041918,4.0,3.5,4.5,longarm,Altbier,4.5,4.0,Headless Man Amber Alt,5.0,2850
+132,Rogue Ales,1295223347,4.5,4.0,4.5,irischmatt,American Porter,4.0,4.0,Double Mocha Porter,8.2,56447
+700,Elysian Brewing Company,1322959172,3.5,4.0,4.0,robmorris31,Pumpkin Ale,4.0,3.0,Night Owl Pumpkin Ale,6.1,7077
+28,Anchor Brewing Company,1039896742,5.0,4.0,4.5,MaineBeerMan,American Porter,4.5,5.0,Anchor Porter,5.6,61
+132,Rogue Ales,1205381096,4.0,4.5,4.5,cswhitehorse,American IPA,4.0,4.0,Brutal Bitter Ale,5.8,361
+35,Boston Beer Company (Samuel Adams),1304880766,4.0,3.5,4.0,Seeker41184,Czech Pilsener,3.0,3.5,Samuel Adams Noble Pils,4.9,54904
+143,Spoetzl Brewery,1289609014,3.5,4.0,3.5,Keffa,Dunkelweizen,3.0,3.5,Shiner Holiday Cheer,5.4,45591
+31,Brauerei Pinkus Mueller,1244733465,4.0,3.5,4.0,Anthony1,Altbier,4.0,3.5,Organic Münster Alt,5.1,80
+192,New Belgium Brewing,1105657311,4.0,4.0,4.0,BeerBob,American Pale Wheat Ale,3.5,4.0,Sunshine Wheat Beer,4.8,1911
+45,Brooklyn Brewery,1087159823,3.5,3.5,4.5,JackTheRipper,English India Pale Ale (IPA),3.5,3.5,Brooklyn East India Pale Ale,6.8,147
+2710,BJ's Chicago Pizza & Brewery Inc.,1097480853,4.0,3.5,4.5,UncleJimbo,Russian Imperial Stout,4.5,4.0,Tatonka Stout,8.5,6594
+7739,Picaroons Brewing Co.,1220659647,4.5,3.5,4.0,jaxon53,Extra Special / Strong Bitter (ESB),3.5,3.5,Best Bitter,5.2,14063
+57,"Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.",1238729634,4.0,3.5,3.0,Lemmiwinks,American Adjunct Lager,4.0,3.0,Tecate,4.5,848
+105,Miller Brewing Co.,1216875192,4.0,2.5,3.0,klintok21,American Adjunct Lager,4.0,3.0,Miller High Life,5.0,580
+694,Tröegs Brewing Company,1301019645,4.5,4.5,4.0,dmfrench,American Amber / Red Ale,4.5,4.0,Tröegs Nugget Nectar,7.5,15881
+610,Bear Republic Brewing Co.,1066056389,4.0,4.5,5.0,ImperialScott,Rye Beer,4.0,4.0,Hop Rod Rye,8.0,3158
+188,The Caledonian Brewing Company,1225224903,3.0,3.5,3.0,BlackHaddock,English Pale Ale,3.0,3.5,Golden Promise Organic Ale,5.0,2697
+18134,Redhook Ale Brewery,1029463199,4.0,3.5,3.5,BeerBob,Extra Special / Strong Bitter (ESB),3.5,3.5,Redhook ESB,5.77,1119
+35,Boston Beer Company (Samuel Adams),1320711095,4.5,5.0,5.0,scottyg354,American Stout,4.0,5.0,Samuel Adams Black & Brew Coffee Stout,5.8,74390
+3521,De Proefbrouwerij (bvba Andelot),1265148919,4.5,4.5,4.0,soulgrowl,Eisbock,4.0,4.0,IJsbok (for SNAB),9.3,24219
+63,Deschutes Brewery,1257041904,4.0,3.5,4.0,bcm119,American Pale Ale (APA),4.0,3.5,Hop Trip (Bond Street Series),5.5,26395
+16285,Weasel Boy Brewing Company,1302909628,4.5,4.5,4.0,Spider889,American Stout,4.0,4.5,Brown Stoat Stout,6.2,44869
+287,"Bell's Brewery, Inc.",1240326014,4.5,4.0,3.5,Brenden,American Pale Wheat Ale,4.0,4.0,Bell's Oberon Ale,5.8,1094
+19476,Beer Here,1262826207,4.5,4.5,4.5,brownbeer,Baltic Porter,4.0,4.0,Mørke - Pumpernickel Porter,7.5,53250
+212,Brouwerij Van Honsebrouck N.V.,1298335912,4.0,4.0,4.0,rapidsequence,Gueuze,4.0,4.0,St. Louis Gueuze Fond Tradition,5.0,5212
+14400,Ninkasi Brewing Company,1302583488,4.0,4.5,3.5,grittybrews,American Double / Imperial IPA,4.0,4.5,Tricerahops Double IPA,8.8,37966
+738,Brasserie Fantôme,1113343215,4.0,4.5,4.5,carln26,Belgian Strong Dark Ale,4.0,4.5,Fantôme Black Ghost,8.0,15278
+29,Anheuser-Busch,1290193638,1.0,1.5,1.5,beerprovedwright,Light Lager,1.5,1.0,Busch Light,4.1,1390
+392,Weyerbacher Brewing Co.,1147396262,4.5,4.0,4.5,akajimmyd,English Barleywine,4.5,4.5,Insanity,11.1,18199
+341,Columbus Brewing Company,1158817861,3.5,3.5,3.5,Osiris9588,American Pale Ale (APA),3.0,3.5,Columbus Pale Ale,,3700
+207,Brasserie de Rochefort,1131930277,5.0,5.0,4.5,dalion037,Dubbel,5.0,5.0,Trappistes Rochefort 8,9.2,1696
+8,Widmer Brothers Brewing Company,1154057397,3.0,3.0,3.0,MusicmanSD,American Pale Wheat Ale,3.0,3.0,Widmer Hefeweizen,4.9,17
+13307,Mikkeller ApS,1299040711,4.5,4.5,3.0,jzeilinger,American Double / Imperial IPA,4.0,4.5,I Beat YoU,9.75,54211
+287,"Bell's Brewery, Inc.",1281824388,4.0,4.0,3.0,seanyfo,American Pale Wheat Ale,3.5,3.5,Bell's Oberon Ale,5.8,1094
+96,Magic Hat Brewing Company,1303526271,4.0,3.5,4.5,Bouleboubier,English India Pale Ale (IPA),3.5,4.0,Blind Faith,6.2,298
+16866,The Bruery,1324935808,3.0,3.0,3.0,donkeyrunner,Belgian Strong Dark Ale,3.5,3.0,3 French Hens,10.0,62432
+863,Russian River Brewing Company,1237170354,5.0,4.0,4.5,Redwood21,American IPA,4.5,4.5,Blind Pig IPA,6.1,22790
+1532,Golden City Brewery,1189095526,4.0,4.5,4.0,beerhermit,American IPA,4.5,4.5,Evolution IPA,7.1,34031
+5318,Port Brewing Company / Pizza Port,1317993145,4.0,4.0,4.0,biggsbowler,American Double / Imperial Stout,4.5,5.0,Older Viscosity,12.0,34094
+1396,Snipes Mountain Microbrewery & Restaurant,1308337901,4.0,3.0,3.5,beertunes,American Barleywine,3.0,3.5,Roza Barley Wine,,3726
+10607,Sixpoint Brewery,1265941889,4.5,4.0,3.0,burner,American IPA,4.5,4.5,Bengali Tiger,6.4,22189
+256,Lost Coast Brewery and Cafe,1182703349,3.5,3.5,4.0,DoubleJ,American Amber / Red Ale,3.5,3.5,Alleycat Amber,5.5,4923
+2210,Firestone Walker Brewing Co.,1251166294,3.5,3.5,3.5,froghop,English Pale Ale,3.0,3.5,Double Barrel Ale,5.0,5653
+1162,Mad Anthony Brewing Company,1293837577,4.0,3.5,4.0,buschbeer,American IPA,3.5,3.5,Mad Anthony IPA,6.5,23031
+45,Brooklyn Brewery,1060868791,4.0,4.0,3.5,ElGuapo,Witbier,4.0,4.5,Blanche De Brooklyn,4.5,2160
+302,Genesee Brewing Co. / Dundee Brewing Co.,1294008485,4.5,4.0,4.0,JDFish,American IPA,4.0,4.0,Dundee India Pale Ale,6.3,25144
+450,Yards Brewing Co.,1267239501,4.0,3.5,3.5,TMoney2591,English Dark Mild Ale,4.0,4.0,Brawler Pugilist Style Ale,4.2,46504
+167,Brewery Lobkowicz,1038584168,4.0,4.0,4.0,John,Czech Pilsener,4.0,4.5,Lobko Bohemian Lager,,7345
+12142,Williams Brothers Brewing Company,1184371415,3.5,3.0,3.5,albern,Scottish Gruit / Ancient Herbed Ale,4.5,3.5,Kelpie Seaweed Ale,4.4,1556
+178,J.W. Lees & Co (Brewers) Ltd,1216428778,4.0,4.5,4.5,barleywinefiend,English Barleywine,4.0,4.0,J.W. Lees Harvest Ale (Sherry Cask),11.5,26039
+689,Two Brothers Brewing Company,1188082728,4.0,3.5,4.0,Hibernator,Russian Imperial Stout,4.0,4.0,Northwind Imperial Stout,9.1,2886
+784,Tyranena Brewing Company,1254294980,4.0,3.5,5.0,garretthetzel,American Brown Ale,3.5,3.5,Rocky's Revenge Bourbon Brown,6.0,20728
+664,Wells & Young's Ltd,1171908040,4.0,4.5,4.0,IceAce,Extra Special / Strong Bitter (ESB),4.0,4.0,Young's Special London Ale,6.4,724
+694,Tröegs Brewing Company,1088567790,3.5,4.0,4.0,rabidawg,English Brown Ale,3.5,3.5,Tröegs Rugged Trail Nut Brown Ale,4.4,3677
+14359,The Defiant Brewing Company,1163293621,3.0,5.0,4.0,NyackNicky,English Pale Ale,5.0,4.5,Little Thumper Ale,5.0,33647
+132,Rogue Ales,1236713244,4.5,4.0,4.0,terryeckmeier,American IPA,4.5,5.0,Brutal Bitter Ale,5.8,361
+378,Atlantic Brewing Company,1106528581,4.0,4.0,4.0,shirfan,American Porter,4.0,4.5,Coal Porter,6.5,1928
+784,Tyranena Brewing Company,1297385127,4.0,4.5,3.5,BarrytheBear,Scotch Ale / Wee Heavy,4.5,4.0,Shaggin' In The Wood,,55511
+13307,Mikkeller ApS,1195747628,4.0,4.0,4.0,mikesgroove,Baltic Porter,4.0,4.0,Til Fra (To From),8.0,39720
+45,Brooklyn Brewery,1175056029,3.0,3.0,4.0,RoyalT,Belgian Strong Pale Ale,3.5,3.0,Brooklyn Local 1,9.0,35328
+268,Brouwerij Straffe Hendrik / Huisbrouwerij De Halve Maan,1291600641,4.5,4.5,4.0,gfreed,Tripel,4.0,4.5,Straffe Hendrik Brugse Tripel Bier 9°,9.0,47909
+3818,Southern Tier Brewing Company,1294470289,3.5,4.5,4.0,cbutova,American Double / Imperial Stout,4.5,4.0,Choklat,11.0,40058
+220,Lagunitas Brewing Company,1268963938,4.5,4.0,4.0,nutritionalfacts,American Double / Imperial IPA,4.5,4.0,Hop Stoopid,8.0,35738
+1151,Piece Brewery & Pizzeria,1177958368,4.0,4.0,3.5,MABZ,Irish Dry Stout,3.5,4.0,Flat Iron Stout,4.5,36589
+1479,J. Boag & Son Brewing,1121135048,2.5,2.5,2.5,BeerNutta,English Bitter,2.5,2.5,Tasman Bitter,4.0,15415
+14078,Half Pints Brewing Company,1282968959,4.0,5.0,4.5,jrallen34,American Double / Imperial Stout,4.5,4.0,$ellout $tout,8.2,55449
+8,Widmer Brothers Brewing Company,1186073294,3.5,2.5,4.0,shabbtastic,American Pale Wheat Ale,2.0,3.0,Widmer Hefeweizen,4.9,17
+142,Spaten-Franziskaner-Bräu,1309742713,4.0,3.5,4.0,woodychandler,Dunkelweizen,4.0,3.5,Franziskaner Hefe-Weisse Dunkel,5.0,924
+35,Boston Beer Company (Samuel Adams),1311358930,3.0,4.0,3.0,bryehn,American Pale Wheat Ale,2.0,2.0,Samuel Adams Summer Ale,5.3,103
+27039,The Alchemist,1311540845,5.0,5.0,5.0,DrewCapzz,American Double / Imperial IPA,5.0,5.0,Heady Topper,8.0,16814
+458,Real Ale Brewing Company,1214961310,4.0,3.5,3.0,midaszero,American Pale Ale (APA),3.5,3.5,Rio Blanco Pale Ale,5.2,2298
+140,Sierra Nevada Brewing Co.,1215570885,4.0,4.5,4.0,alarusse,American Porter,3.5,4.5,Sierra Nevada Porter,5.6,279
+345,Victory Brewing Company,1278983670,4.0,4.5,4.0,chcfan,Quadrupel (Quad),4.0,4.5,V-Twelve,12.0,8998
+192,New Belgium Brewing,1311982123,3.5,4.0,3.0,DarthKostrizer,American Wild Ale,4.0,3.0,Lips Of Faith - Le Terroir,7.5,26541
+394,Stoudts Brewing Co.,1240257603,3.5,3.5,3.0,NJpadreFan,Munich Dunkel Lager,3.5,3.5,Brewer's Reserve Munich Dark Lager,4.8,47422
+132,Rogue Ales,1059764457,4.0,4.5,4.0,Jarod,American Double / Imperial IPA,4.5,4.5,XS Imperial India Pale Ale,9.5,358
+9629,Short's Brewing Company,1315795473,3.5,4.0,3.5,corby112,American Black Ale,4.0,3.5,Bludgeon Yer Eye PA,5.0,62755
+220,Lagunitas Brewing Company,1287377799,4.0,4.0,3.5,lovetranquillity,American Amber / Red Ale,3.0,3.5,Censored,6.75,3711
+9790,The Duck-Rabbit Craft Brewery,1151891051,4.5,4.5,4.0,blitz134,Scotch Ale / Wee Heavy,4.5,4.0,Duck-Rabbit Wee Heavy Scotch Style Ale,8.0,30521
+684,Fish Brewing Company / Fishbowl Brewpub,1171220074,4.0,4.0,4.0,IronDjinn,Winter Warmer,3.5,4.0,Fish Tale Winterfish,7.5,3579
+4,Allagash Brewing Company,1060157342,4.0,4.5,4.5,taez555,Quadrupel (Quad),4.5,4.5,Allagash Grand Cru,7.2,58
+3521,De Proefbrouwerij (bvba Andelot),1219106665,4.5,4.0,4.0,bkett01,Flanders Red Ale,4.5,4.0,Zoetzuur Flemish Ale,7.0,20750
+9408,Great Lakes Brewery,1317681673,4.0,4.5,4.0,liamt07,Wheatwine,4.0,4.0,Great Lakes Raspberry Wheatwine,10.3,73755
+697,Kiuchi Brewery,1199030194,4.5,4.5,4.0,RblWthACoz,Witbier,4.0,4.0,Hitachino Nest White Ale,5.0,2013
+450,Yards Brewing Co.,1262907356,4.0,4.0,4.0,NJpadreFan,English Barleywine,4.0,4.0,Old Bartholomew,10.3,7666
+119,Otter Creek Brewing / Wolaver's,1306292311,3.5,2.5,3.5,jmdrpi,Altbier,3.0,3.5,Otter Creek Copper Ale,5.4,434
+29,Anheuser-Busch,1271400572,3.5,3.0,2.5,LordAdmNelson,Fruit / Vegetable Beer,3.0,3.5,Wild Blue (Blueberry Lager),8.0,26049
+863,Russian River Brewing Company,1281753604,4.5,5.0,4.5,harpus,Tripel,4.5,5.0,Damnation Batch 23 (Oak Aged),11.0,37578
+158,Great Divide Brewing Company,1161136238,4.5,4.0,4.5,Ego,Russian Imperial Stout,4.0,4.0,Oak Aged Yeti Imperial Stout,9.5,19216
+15237,De Struise Brouwers,1300415604,4.5,4.5,5.0,tubaguy,Russian Imperial Stout,5.0,4.5,Cuvee Delphine,13.0,47100
+596,Portsmouth Brewery,1229946226,4.0,4.0,4.0,DIM,Rye Beer,4.5,4.0,Portsmouth Winter Rye Ale,7.0,40045
+6372,Fort Collins Brewing,1255568062,4.5,4.5,3.0,HeroJH,Schwarzbier,4.0,4.0,Kidd Lager,4.5,22809
+143,Spoetzl Brewery,1301700901,2.0,2.0,2.0,turfy,Fruit / Vegetable Beer,2.5,1.5,Shiner Ruby Redbird,4.01,67274
+392,Weyerbacher Brewing Co.,1151378763,4.0,4.5,4.5,asabreed,American Double / Imperial IPA,4.5,4.5,Double Simcoe IPA,9.0,30288
+5318,Port Brewing Company / Pizza Port,1172905148,4.0,4.0,4.0,tonistruth,Weizenbock,4.0,4.0,None The Weisser,8.3,35244
+113,Samuel Smith Old Brewery (Tadcaster),1219434826,2.0,2.0,4.0,PatronWizard,English India Pale Ale (IPA),2.5,2.0,Samuel Smith's India Ale,5.0,573
+1319,Boscos Restaurant & Brewing Co. - Nashville,1210858798,1.5,3.0,4.5,ckeegan04,American Pale Wheat Ale,3.5,1.5,Spring Wheat,,42681
+596,Portsmouth Brewery,1249581931,4.0,3.5,4.0,tpd975,Witbier,4.0,4.0,Portsmouth Belgian Wit,5.0,18681
+4,Allagash Brewing Company,1222425241,4.0,4.0,4.0,erosier,Dubbel,4.0,4.0,Allagash Dubbel Ale,7.0,10
+353,"Carlton & United Breweries, Ltd.",1179163057,3.5,3.0,3.5,pdonoho,American Adjunct Lager,2.5,3.0,Victoria Bitter (VB),4.6,1541
+203,Greene King / Morland Brewery,1219975151,3.5,2.5,4.0,Backer2004,English Pale Ale,3.5,3.5,Hen's Tooth,6.5,878
+72,Weisses Bräuhaus G. Schneider & Sohn GmbH,1274403141,4.0,4.5,3.0,Kromes,Weizenbock,4.0,4.0,Schneider-Brooklyner Hopfen-Weisse,8.2,37774
+583,Saint Louis Brewery / Schlafly Tap Room,1065206027,4.0,3.5,4.0,Realale,Märzen / Oktoberfest,4.0,3.0,Schlafly Oktoberfest,5.1,6746
+695,Manayunk Brewery and Restaurant,1046160290,4.0,4.0,4.0,WilliamPhilaPa,Keller Bier / Zwickel Bier,4.0,4.0,Kellerbier,,3147
+132,Rogue Ales,1195942996,3.0,3.5,4.0,shirfan,American Malt Liquor,3.0,3.5,Dad's Little Helper Malt Liquor,7.2,30424
+113,Samuel Smith Old Brewery (Tadcaster),1067025280,4.5,4.0,4.0,TAMU99,Oatmeal Stout,4.0,4.5,Samuel Smith's Oatmeal Stout,5.0,571
+1199,Founders Brewing Company,1266825063,3.5,4.0,4.0,chefmikeanderson,Wheatwine,4.0,4.0,Founders Nemesis 2009,12.0,55900
+11412,Bedondaine & Bedons Ronds,1187994188,4.0,3.5,4.0,northyorksammy,American Brown Ale,3.5,3.5,Noix De Marmotte,6.0,38370
+23980,Yuengling Brewery ,1229774629,3.5,4.0,3.5,nsmartell,American Amber / Red Lager,4.0,3.5,Yuengling Traditional Lager,4.4,1351
+2725,Kraftbräu Brewery,1095182110,4.0,3.5,4.0,redmosquito,American Amber / Red Ale,4.0,4.0,Kraftbräu Rock Harbor Red Ale,6.5,6454
+10485,East End Brewing Company,1177899672,4.0,3.5,4.0,akorsak,American IPA,4.0,4.0,Big Hop IPA,5.8,20952
+3818,Southern Tier Brewing Company,1303878687,4.0,4.5,4.0,OddNotion,American Double / Imperial IPA,4.5,4.0,2XIPA,8.2,57908
+10099,Dogfish Head Brewery,1217473040,4.0,5.0,5.0,BamaBeerBuff,American Brown Ale,5.0,4.5,Palo Santo Marron,12.0,33832
+4,Allagash Brewing Company,1155833608,2.0,4.0,4.0,DaPeculierDane,Tripel,2.5,2.0,Allagash Curieux (Bourbon Barrel-Aged Tripel),11.0,16909
+63,Deschutes Brewery,1324248193,4.5,4.5,4.5,Mahlik,American Porter,5.0,4.5,Black Butte Porter,5.2,198
+886,Gubernija Brewery,1107218176,4.0,3.5,4.0,plaztikjezuz,Hefeweizen,3.0,3.0,Kvietinis Natural Wheat Beer (Weissbier),4.5,5053
+18006,Half Acre Beer Company,1274483109,4.5,4.5,5.0,thetomG,American Double / Imperial IPA,4.0,4.0,Double Daisy Cutter,8.5,58467
+4686,Hofbräuhaus München,1251517879,4.5,3.0,4.0,crossovert,Hefeweizen,3.5,4.0,Hofbräu Münchner Weisse,5.1,3836
+610,Bear Republic Brewing Co.,1080693437,4.0,4.5,4.0,altctrlsdelete,American Amber / Red Ale,3.5,4.0,Red Rocket Ale,6.8,1655
+9343,Beer Works,1084752596,4.0,4.0,4.0,UncleJimbo,American Stout,4.0,4.0,Vanilla Bean Stout,,17076
+39,Privatbrauerei Franz Inselkammer KG / Brauerei Aying,1139359725,4.5,4.0,4.0,DeaconBluez,Doppelbock,4.5,4.0,Ayinger Celebrator Doppelbock,6.7,131
+207,Brasserie de Rochefort,1258689046,4.5,4.0,4.5,JBushEsq,Belgian Strong Dark Ale,3.5,4.5,Trappistes Rochefort 6,7.5,3842
+142,Spaten-Franziskaner-Bräu,1187855362,3.5,3.5,3.5,hogansbrew,Märzen / Oktoberfest,3.5,3.0,Spaten Oktoberfestbier Ur-Märzen,5.9,582
+147,Stone Brewing Co.,1206665834,4.5,4.0,4.0,brandoneast,American IPA,3.5,4.0,Stone IPA (India Pale Ale),6.9,88
+28,Anchor Brewing Company,1171777507,3.0,3.5,4.0,MrHungryMonkey,English Barleywine,3.5,3.5,Anchor Old Foghorn,8.2,1445
+29,Anheuser-Busch,1135564789,2.5,2.0,3.0,DERTY1,Märzen / Oktoberfest,3.5,2.0,Michelob Marzen,5.1,2209
+590,New Glarus Brewing Company,1252119071,4.0,3.0,4.0,beerwolf77,Cream Ale,4.0,3.0,Spotted Cow,4.8,1963
+71,Fuller Smith & Turner PLC,1303608219,4.5,4.0,4.5,DoktorZee,English Porter,4.5,4.5,Fuller's London Porter,5.4,221
+1471,Dark Horse Brewing Company,1310877781,4.0,4.5,4.0,NittanyBeerFan,American Stout,4.0,3.5,Raspberry Black Ice,9.4,71118
+9897,Jolly Pumpkin Artisan Ales,1296277696,4.0,4.0,4.5,aasher,American Wild Ale,5.0,4.5,Bambic,5.3,65586
+45,Brooklyn Brewery,1239746577,4.0,4.0,4.0,patmcd,Belgian Strong Dark Ale,3.5,4.5,Brooklyn Local 2,9.0,47678
+29,Anheuser-Busch,1066220844,2.0,1.0,2.0,32hoss32,Light Lager,2.0,1.5,Michelob Ultra,4.2,3734
+141,Smuttynose Brewing Company,1259360029,4.5,4.5,4.5,JayNH,Doppelbock,4.5,4.5,Smuttynose S'muttonator (Big Beer Series),8.5,21296
+2210,Firestone Walker Brewing Co.,1303272628,3.5,4.0,3.0,litheum94,American Pale Ale (APA),3.5,3.5,Pale 31,4.8,5643
+29,Anheuser-Busch,1264213930,4.5,2.5,2.0,jrallen34,Herbed / Spiced Beer,1.5,3.0,Bud Light Golden Wheat,4.1,51464
+183,Brouwerij Sterkens N.V.,1183566984,4.0,4.0,3.5,BeerZack,Witbier,4.0,4.0,Sterkens White Ale,4.7,628
+403,"Pyramid Breweries, Inc.",1210294834,3.0,3.5,2.5,jar2574,American Pale Wheat Ale,2.5,2.5,Haywire Hefeweizen,5.2,1237
+898,Heavy Seas Beer,1232242366,3.5,4.0,4.0,clayrock81,Weizenbock,4.0,3.5,Heavy Seas - Hang Ten (Weizen Doppelbock),10.0,37323
+1549,Goose Island Beer Co.,1298241357,4.0,3.0,4.0,Flipadelphia84,Rye Beer,3.0,3.5,Mild Winter,5.6,44377
+1489,Královský Pivovar Krušovice a.s.,1160169291,4.0,4.0,4.0,VelvetMonkey,Czech Pilsener,3.5,3.5,Krušovice Imperial,5.0,12475
+147,Stone Brewing Co.,1218757367,4.5,4.0,4.0,northyorksammy,American Double / Imperial Stout,3.5,4.0,Stone 12th Anniversary Bitter Chocolate Oatmeal Stout,9.2,43491
+192,New Belgium Brewing,1324625009,2.5,2.5,3.5,marshrat63,American Black Ale,2.5,2.5,Snow Day Winter Ale,6.2,74123
+10099,Dogfish Head Brewery,1298333223,4.5,4.5,4.0,Dave128,American Brown Ale,4.0,4.0,Indian Brown Ale,7.2,1161
+140,Sierra Nevada Brewing Co.,1243019486,4.0,3.5,3.5,Overlord,Czech Pilsener,4.0,3.5,Sierra Nevada Summerfest Lager,5.0,3558
+9790,The Duck-Rabbit Craft Brewery,1179760662,4.5,4.0,4.5,Mebuzzard,Russian Imperial Stout,4.5,4.0,Duck-Rabbit Rabid Duck,10.0,27249
+113,Samuel Smith Old Brewery (Tadcaster),1289947856,4.0,3.0,3.5,Mit,Winter Warmer,3.5,4.0,Samuel Smith's Winter Welcome Ale,6.0,577
+132,Rogue Ales,1080433966,3.5,3.5,3.0,bieristgut,Smoked Beer,3.0,4.0,Smoke Ale,6.0,357
+132,Rogue Ales,1170512045,4.5,4.5,4.5,Stimack,Oatmeal Stout,4.5,5.0,Shakespeare Oatmeal Stout,6.1,56973
+29,Anheuser-Busch,1109719659,2.5,2.0,2.5,rhoadsrage,Light Lager,2.0,2.0,Michelob Ultra,4.2,3734
+401,Baltika Breweries,1234836361,3.5,3.5,3.0,fitzy84,Euro Pale Lager,3.5,4.0,Baltika #5 Gold,5.3,4699
+610,Bear Republic Brewing Co.,1236216376,4.5,5.0,4.5,Gilgemesh,American IPA,5.0,4.0,Racer 5 India Pale Ale,7.0,2751
+3818,Southern Tier Brewing Company,1224288909,4.5,4.5,4.0,deereless,Hefeweizen,4.5,4.5,Heavy Weizen (Imperial Unfiltered Wheat Ale),8.0,32926
+140,Sierra Nevada Brewing Co.,1260901626,5.0,4.5,4.5,anthony914,Hefeweizen,4.5,5.0,Sierra Nevada Kellerweis Hefeweizen,4.8,48434
+396,AleSmith Brewing Company,1248320183,4.5,5.0,4.5,projectflam86,American Double / Imperial IPA,4.0,4.5,YuleSmith (Summer),8.5,7284
+1483,Springfield Brewing Company,1241891057,3.5,3.5,4.0,naterock,American Wild Ale,3.5,3.5,Mueller Barrel Reserve - 10th Anniversary Edition,7.5,42089
+898,Heavy Seas Beer,1255814882,3.5,3.0,3.0,lackenhauser,Märzen / Oktoberfest,3.5,3.5,Heavy Seas - Prosit!,9.0,51857
+10097,Harpoon Brewery,1156480535,4.5,3.5,4.0,mynie,American IPA,4.0,4.0,Harpoon IPA,5.9,311
+15435,Beau's All Natural Brewing Company,1315073723,3.5,4.0,4.0,CanuckRover,Dunkelweizen,3.0,3.5,Dunkel Buck,6.8,72633
+915,New Zealand Breweries Limited,1192503252,2.5,1.5,3.0,ReebShorts,Euro Pale Lager,3.5,2.0,Steinlager,5.0,2945
+10099,Dogfish Head Brewery,1291095675,3.5,4.0,4.5,GoSpeedGo108,Russian Imperial Stout,5.0,4.5,Miles Davis' Bitches Brew,9.0,59151
+141,Smuttynose Brewing Company,1325031637,3.0,3.0,3.5,bluejacket74,Belgian IPA,3.5,2.5,Smuttynose Homunculus (Big Beer Series),9.9,35225
+590,New Glarus Brewing Company,1237957209,4.5,5.0,4.5,ZAP,Hefeweizen,4.5,4.5,Crack'd Wheat,5.95,47539
+811,Highland Brewing,1291819307,4.0,4.0,3.5,TheKingofWichita,English Bitter,4.0,3.5,Highland Black Mountain Bitter,4.0,46676
+200,Mendocino Brewing Company,1176083045,4.0,3.5,4.5,CpnYates,American IPA,3.5,4.0,White Hawk Original IPA,7.0,4970
+22,Unibroue,1128391797,4.0,4.0,4.0,sabrills70,Witbier,3.5,4.0,Blanche De Chambly,5.0,31
+6994,Alexander Keith's,1312153392,3.0,3.0,3.0,Zorro,American Pale Ale (APA),3.0,2.5,Alexander Keith's Nova Scotia Style Pale Ale,5.4,68370
+1111,Martha's Vineyard Ales,1045227616,4.0,4.0,5.0,scottum,Foreign / Export Stout,5.0,2.5,Martha's Vineyard Extra Stout,,3266
+1416,Uinta Brewing Company,1203335388,4.0,4.5,4.0,DIM,American Barleywine,4.5,4.0,Anniversary Barley Wine,10.4,3840
+22,Unibroue,1229473882,4.0,4.5,4.0,WalrusJockey,Belgian Strong Dark Ale,4.0,4.5,Unibroue 17,10.0,40968
+5439,Ram Restaurant & Brewery,1159313536,3.5,3.0,3.5,woodychandler,American IPA,3.0,3.5,Big Red IPA,6.0,32945
+63,Deschutes Brewery,1060388741,4.0,3.5,4.0,beerguy101,German Pilsener,4.0,4.5,Pine Mountain Pils,5.1,1028
+16866,The Bruery,1308449928,3.0,4.0,3.0,GradyS1,Gose,3.5,3.5,Provisions Series: Salt Of The Earth,5.0,66677
+454,Arcadia Brewing Company,1236915823,2.5,3.5,2.5,PEBKAC,American Double / Imperial IPA,3.5,3.0,Arcadia HopMouth Double IPA,8.1,27286
+73,Great Lakes Brewing Company,1243039908,4.0,4.5,4.0,paco1029384756,Weizenbock,4.5,4.0,Great Lakes Glockenspiel Weizenbock,8.0,19796
+898,Heavy Seas Beer,1181593035,2.5,3.0,3.0,Rudgers73,Extra Special / Strong Bitter (ESB),2.5,3.0,"Heavy Seas - Winter Storm (""Category 5"" Ale)",7.5,15989
+2137,Breckenridge Brewery,1133032994,3.0,4.0,3.5,BEERchitect,Oatmeal Stout,3.0,3.0,Oatmeal Stout,4.95,2354
+694,Tröegs Brewing Company,1282348351,4.5,4.0,4.5,krisandajt,Milk / Sweet Stout,4.5,4.0,Scratch Beer 27 - 2010 (Cocaoabunga),6.7,56032
+10099,Dogfish Head Brewery,1196037081,4.5,4.5,4.0,baos,American Brown Ale,4.5,4.5,Indian Brown Ale,7.2,1161
+158,Great Divide Brewing Company,1287019981,4.5,4.0,4.0,NODAK,Belgian IPA,3.5,4.0,Belgica,7.2,49436
+321,Brasserie d'Achouffe,1165975234,4.0,4.0,4.0,dirtylou,Belgian Strong Pale Ale,4.0,4.0,La Chouffe,8.0,1836
+10099,Dogfish Head Brewery,1256337223,4.0,4.0,3.5,squirrelpirate,Pumpkin Ale,4.0,4.5,Punkin Ale,7.0,6260
+147,Stone Brewing Co.,1248906041,3.5,4.5,4.0,hooliganlife,American Amber / Red Ale,4.0,3.5,Stone Levitation Ale,4.4,6301
+35,Boston Beer Company (Samuel Adams),1242601729,4.0,4.0,4.0,jctribe25,Bock,4.0,4.5,LongShot Traditional Bock,6.8,46923
+2943,Otto's Pub and Brewery,1317603746,4.0,4.0,4.5,robwestcott,Russian Imperial Stout,3.5,4.0,Jolly Roger Imperial Stout,9.0,31222
+22,Unibroue,1174267177,4.5,4.5,4.5,Wildman,Belgian Strong Pale Ale,4.5,4.5,Unibroue 15,10.0,28385
+18003,Microbrasserie Le Naufrageur,1294108900,4.5,4.0,3.5,ZorPrime,Irish Dry Stout,4.0,4.5,St-Barnabé,5.2,62986
+18371,Pretty Things Beer & Ale Project,1238639591,4.0,4.0,4.0,vrazionale,Saison / Farmhouse Ale,4.0,4.0,Jack D'or,6.4,46290
+35,Boston Beer Company (Samuel Adams),1184898396,4.0,3.0,4.0,PSUguru,Schwarzbier,4.5,4.5,Samuel Adams Black Lager,4.9,21300
+68,Flying Dog Brewery,1255739998,4.0,4.0,4.5,Brad007,Winter Warmer,4.5,4.0,K-9 Cruiser Winter Ale,7.4,732
+287,"Bell's Brewery, Inc.",1273714236,4.5,4.0,4.0,urwithdave,American Stout,4.5,4.0,Bell's Kalamazoo Stout,6.0,1117
+418,Left Hand Brewing Company,1256691859,4.0,3.5,4.0,pwoods,Russian Imperial Stout,2.0,4.0,Left Hand Imperial Stout,10.4,2654
+323,Harviestoun Brewery Ltd.,1252870719,4.5,4.5,5.0,manwich,English Porter,5.0,5.0,Old Engine Oil,6.0,875
+158,Great Divide Brewing Company,1243563294,3.0,4.0,4.0,Sean9689,American Barleywine,4.0,3.5,Old Ruffian Barley Wine,10.2,20931
+932,Hale's Ales Brewery & Pub,1113436002,4.0,4.0,4.0,BuckeyeNation,Hefeweizen,4.0,4.0,El Jefe Weizen Ale,4.5,22490
+24,Traquair House Brewery Lld,1179208943,4.0,3.5,4.0,henrysunset,Scotch Ale / Wee Heavy,4.5,4.5,Traquair Jacobite,8.0,652
+4,Allagash Brewing Company,1108519969,5.0,4.0,4.5,BierManVA,Dubbel,5.0,5.0,Allagash Dubbel Ale,7.0,10
+689,Two Brothers Brewing Company,1303513227,4.5,4.0,5.0,sirdillon,Rye Beer,4.5,4.5,Cane & Ebel,7.0,30502
+1199,Founders Brewing Company,1148518103,5.0,5.0,4.5,stoned2,American Double / Imperial Stout,5.0,5.0,Founders KBS (Kentucky Breakfast Stout),11.2,19960
+4,Allagash Brewing Company,1210307525,4.0,4.5,3.5,Slynger,Tripel,3.5,4.5,Allagash Tripel Ale,9.0,448
+450,Yards Brewing Co.,1099171287,4.0,4.0,4.0,Gavage,American Pale Ale (APA),4.0,4.0,Philadelphia Pale Ale,4.3,3714
+1114,Bullfrog Brewery,1258382770,4.0,4.0,3.5,Deuane,American Amber / Red Ale,4.0,4.0,Inspiration Red,5.6,34931
+42,Brewery Ommegang,1273774159,4.5,4.5,4.5,berpwillie,Quadrupel (Quad),4.5,4.5,Three Philosophers Belgian Style Blend (Quadrupel),9.8,3457
+337,Saint Arnold Brewing Company,1145753874,4.0,3.5,4.0,shererjt,Bock,3.0,3.5,Saint Arnold Spring Bock,6.4,1070
+63,Deschutes Brewery,1227279408,4.0,3.5,3.5,Haybeerman,American IPA,4.5,4.0,Inversion IPA,6.8,29209
+140,Sierra Nevada Brewing Co.,1286071960,4.5,4.0,4.0,beergod1,American Stout,4.0,4.5,Sierra Nevada Stout,5.8,283
+3818,Southern Tier Brewing Company,1256681564,4.0,4.5,4.0,Docer,American Double / Imperial Stout,4.0,4.0,Creme Brulee (Imperial Milk Stout),9.6,43687
+13884,Peak Organic Brewing Company,1233103736,4.5,4.0,4.0,adamks,American Amber / Red Ale,4.0,3.5,Peak Organic Espresso Amber Ale,6.8,45629
+10099,Dogfish Head Brewery,1232317943,4.0,4.0,4.0,midaszero,Belgian Strong Dark Ale,4.0,4.0,Raison D'etre,8.0,1180
+96,Magic Hat Brewing Company,1119660538,4.5,4.0,4.5,DERTY1,Irish Red Ale,4.5,4.0,Humble Patience,4.6,1387
+354,Carolina Beer Company,1188175268,3.5,3.5,4.0,burnstar,American IPA,3.5,3.0,Cottonwood Endo India Pale Ale,5.9,5049
+192,New Belgium Brewing,1229649213,4.0,3.5,4.0,KickInTheChalice,American Amber / Red Ale,4.5,3.5,Fat Tire Amber Ale,5.2,607
+76,Hacker-Pschorr Bräu GmbH,1145233292,4.0,3.0,4.0,Viggo,Munich Helles Lager,4.0,3.5,Hacker-Pschorr Edelhell,5.5,9603
+267,Odell Brewing Company,1291512487,4.0,3.0,4.0,kevinconroy,Winter Warmer,3.0,3.0,Odell Isolation Ale,6.0,741
+132,Rogue Ales,1080162874,4.5,5.0,5.0,99bottles,Russian Imperial Stout,5.0,5.0,Imperial Stout,11.0,356
+695,Manayunk Brewery and Restaurant,1124985516,4.0,3.5,3.5,weeare138,Fruit / Vegetable Beer,4.0,3.5,Schuylkill Punch,6.7,2226
+738,Brasserie Fantôme,1321936198,4.5,4.0,5.0,beerhan,Saison / Farmhouse Ale,4.5,4.0,Fantôme Magic Ghost,8.0,68026
+18134,Redhook Ale Brewery,1267127936,2.0,2.0,3.0,alysmith4,Extra Special / Strong Bitter (ESB),3.0,2.0,Redhook ESB,5.77,1119
+140,Sierra Nevada Brewing Co.,1140448135,4.0,3.5,4.0,sopor,American Porter,4.0,4.0,Sierra Nevada Porter,5.6,279
+29,Anheuser-Busch,1055249954,4.0,2.5,3.0,hoped,American Adjunct Lager,3.0,3.0,Budweiser,5.0,65
+199,Ballast Point Brewing Company,1303665290,4.5,4.0,5.0,liamt07,American IPA,4.0,4.5,Sculpin India Pale Ale,7.0,29619
+1114,Bullfrog Brewery,1285791701,3.0,4.0,4.0,Huhzubendah,Belgian Strong Pale Ale,3.5,4.0,El Diablo,7.4,55790
+418,Left Hand Brewing Company,1321743641,4.0,3.5,4.0,damndirtyape,English Porter,3.5,4.0,Black Jack Porter,6.4,1251
+395,Bluegrass Brewing Co. - East St. Matthew's,1138717220,3.5,3.5,4.0,Brent,English Brown Ale,3.0,3.5,Nut Brown Ale,4.9,7324
+7282,Brauerei Hofstetten Krammer GmbH & Co. KG,1302920934,4.5,4.5,2.0,MrOH,Maibock / Helles Bock,4.5,4.5,Saphir Bock,7.4,65548
+553,Bierbrouwerij Sint Christoffel B.V,1093300473,4.5,4.5,4.5,Sigmund,Munich Dunkel Lager,4.0,4.0,Christoffel Robertus,6.0,2007
+72,Weisses Bräuhaus G. Schneider & Sohn GmbH,1179348977,4.5,5.0,4.5,Monkeyknife,Weizenbock,4.0,5.0,Schneider Aventinus,8.2,224
+3818,Southern Tier Brewing Company,1253706876,4.0,4.0,4.0,Daniellobo,American Double / Imperial IPA,4.0,4.5,Unearthly (Imperial India Pale Ale),9.5,28577
+9969,Rahr & Sons Brewing Company,1278787724,3.5,3.0,3.0,MrHungryMonkey,American IPA,3.5,4.0,Stormcloud IPA,6.0,35790
+3900,Kaltenberg International / König Ludwig International GmbH & Co.KG,1062450267,3.5,3.5,4.0,Quaffer,Hefeweizen,4.0,3.0,König Ludwig Weiss (Royal Bavarian Hefe-Weizen),5.5,4847
+83,Brouwerij van Hoegaarden,1151623256,4.0,3.5,4.0,jettjon,Witbier,3.5,3.5,Hoegaarden Original White Ale,4.9,248
+2210,Firestone Walker Brewing Co.,1312055622,4.5,3.5,4.0,jgasparine,English Pale Ale,4.0,4.0,Double Barrel Ale,5.0,5653
+8325,Cape Ann Brewing Company,1191708716,4.5,4.0,3.5,heyyins09,Pumpkin Ale,4.5,4.5,Fisherman's Pumpkin Stout,7.0,33205
+16991,All Stars Bakery,1319596166,4.0,3.5,5.0,wordemupg,Kvass,4.0,3.5,Kvas,0.5,42484
+147,Stone Brewing Co.,1135036934,4.0,4.5,3.5,SkeeterHawk,American IPA,4.0,4.0,Stone IPA (India Pale Ale),6.9,88
+784,Tyranena Brewing Company,1161705665,4.0,4.0,4.0,hanco005,American Brown Ale,4.0,4.0,Rocky's Revenge Bourbon Brown,6.0,20728
+287,"Bell's Brewery, Inc.",1301374804,4.0,3.5,4.0,Brenden,American Stout,4.0,3.5,Bell's Rye Stout,6.7,2009
+19190,Rust Belt Brewing Company,1305463266,2.5,3.0,4.0,IronCitySteve,Irish Red Ale,2.5,2.5,Rusted River Irish Red Ale,5.5,51686
+3818,Southern Tier Brewing Company,1154729943,3.0,3.5,2.5,AlexJ,Tripel,3.0,3.0,Tripel,9.0,20741
+1199,Founders Brewing Company,1151584052,3.5,4.0,4.0,irishmoss,Old Ale,4.5,4.0,Founders Curmudgeon (Old Ale),9.8,24905
+147,Stone Brewing Co.,1322443277,3.5,3.0,5.0,OStrungT,Pumpkin Ale,3.0,3.0,The Bruery / Elysian / Stone La Citrueille Celeste De Citracado,5.0,74272
+710,Jacob Leinenkugel Brewing Company,1160145815,1.0,2.0,2.0,WVbeergeek,Märzen / Oktoberfest,1.5,1.5,Leinenkugel's Oktoberfest,5.1,5757
+15711,HaandBryggeriet,1241926910,3.5,4.5,4.0,spratmi,Russian Imperial Stout,4.0,4.0,Dark Force,8.5,37298
+45,Brooklyn Brewery,1223255557,3.5,4.0,4.0,fank2788,Pumpkin Ale,3.5,4.0,Post Road Pumpkin Ale,5.0,74
+1141,Brasserie Dieu Du Ciel,1291335897,4.0,5.0,4.0,dogfishandi,American Double / Imperial Stout,4.5,4.5,Péché Mortel (Imperial Stout Au Cafe),9.5,10325
+10097,Harpoon Brewery,1229484937,4.0,4.0,4.0,Freshie,Baltic Porter,4.0,4.5,Harpoon Leviathan - Baltic Porter,9.5,45934
+19544,Fat Heads Brewery & Saloon,1311023664,3.0,3.5,4.0,Hojaminbag,American Pale Wheat Ale,3.5,3.0,Jungle Juice,5.4,71168
+12985,Laughing Dog Brewing,1229397322,4.0,4.0,4.5,erikm25,American Double / Imperial Stout,4.0,4.5,The Dogfather,11.0,45777
+1075,Caldera Brewing Company,1268007672,3.5,4.0,4.0,jlindros,American IPA,4.0,4.0,Caldera IPA,6.1,10784
+119,Otter Creek Brewing / Wolaver's,1300607573,4.0,4.0,4.5,nathanmiller,American Pale Wheat Ale,3.5,4.5,Wolaver's Wildflower Wheat,4.25,66899
+2372,Terrapin Beer Company,1269827179,3.5,4.0,2.5,farrago,American Porter,3.5,3.0,Terrapin Dos Cocoas Chocolate Porter,5.8,46840
+447,Pabst Brewing Company,1276378061,4.0,3.0,3.5,RonaldTheriot,American Pale Ale (APA),3.5,4.0,Ballantine XXX Ale,4.85,876
+22,Unibroue,1231110525,4.0,3.5,3.5,Tucquan,Tripel,4.0,4.0,La Fin Du Monde,9.0,34
+147,Stone Brewing Co.,1267760359,4.0,4.0,4.5,Spineypanda,American Barleywine,4.0,4.5,Stone Old Guardian Barley Wine Style Ale 2010,11.1,56068
+4884,Privatbrauerei Schwelm,1144626112,4.0,4.0,3.0,soulgrowl,Altbier,2.5,4.0,Schwelmer Alt,4.2,10414
+113,Samuel Smith Old Brewery (Tadcaster),1207875838,4.0,3.5,4.0,Brad007,Euro Pale Lager,3.5,4.0,Samuel Smith's Organically Produced Lager Beer,5.0,778
+3062,Amos Howard's Brew Pub,1185682272,4.5,4.0,4.0,russpowell,Weizenbock,4.5,4.0,Weizen Bock,8.0,37953
+18149,The Lost Abbey,1225822490,4.5,5.0,4.5,hopdog,American Wild Ale,5.0,4.5,Cable Car,7.0,38149
+1432,Jackie O's Pub & Brewery,1314402591,4.0,4.0,4.0,brew3crew,Belgian Pale Ale,4.0,4.0,Shade Abbey Single,5.0,68724
+42,Brewery Ommegang,1083289936,4.0,4.0,4.5,moki,Belgian Pale Ale,3.5,4.0,Rare Vos (Amber Ale),6.5,593
+63,Deschutes Brewery,1260729276,4.0,5.0,4.0,mmager,American Porter,4.5,4.5,Black Butte XXI,11.0,50846
+26,Three Floyds Brewing Co. & Brewpub,1304289216,5.0,4.5,4.0,Chaney,Russian Imperial Stout,5.0,5.0,Dark Lord Imperial Stout,15.0,7520
+113,Samuel Smith Old Brewery (Tadcaster),1167264282,4.0,4.0,4.0,Grundle20,Oatmeal Stout,4.5,4.5,Samuel Smith's Oatmeal Stout,5.0,571
+10099,Dogfish Head Brewery,1236287540,4.0,3.5,4.0,mempath,American IPA,3.5,4.5,ApriHop,7.0,3951
+187,Brouwerij Lindemans,1294121404,3.0,4.0,4.0,schlimenhaumer,Lambic - Fruit,4.0,3.5,Lindemans Cassis,4.0,601
+158,Great Divide Brewing Company,1287618236,4.5,4.0,5.0,garuda,American IPA,5.0,4.0,Rumble IPA,7.1,60832
+339,Flying Fish Brewing Company,1268682126,4.5,5.0,4.5,Seanibus,American Double / Imperial IPA,4.0,5.0,Exit 16,8.2,56716
+76,Hacker-Pschorr Bräu GmbH,1022182581,4.0,4.5,4.5,psugrad98,Märzen / Oktoberfest,4.0,4.0,Hacker-Pschorr Oktoberfest-Märzen,5.8,234
+161,Florida Beer Company,1091063346,3.5,3.5,4.0,OldFrothingSlosh,English Porter,3.5,3.5,Ybor Gold Gaspars Porter,5.2,16604
+147,Stone Brewing Co.,1286566574,4.0,4.5,4.5,jampics2,American Pale Ale (APA),3.0,3.5,San Diego County Session Ale,4.2,60842
+5318,Port Brewing Company / Pizza Port,1250263821,3.5,4.5,4.5,rayjay,American Double / Imperial IPA,4.0,3.0,3rd Anniversary Double IPA,10.0,49715
+181,George Gale & Company Ltd,1216272929,4.0,5.0,2.0,russpowell,Old Ale,4.5,4.0,Gale's Prize Old Ale,9.0,3732
+106,JOS. Schlitz Brewing Co. (Pabst),1303631935,3.5,3.0,3.0,ElCommodoro,American Adjunct Lager,3.0,3.5,Schlitz Gusto (Classic 1960's Formula),4.7,44315
+3912,Cameron's Brewing Co.,1321935620,4.0,3.5,2.0,ChrisCage,American Pale Lager,3.5,4.0,Lager,5.0,9508
+302,Genesee Brewing Co. / Dundee Brewing Co.,1309481408,3.5,3.5,4.0,emerge077,American Pale Wheat Ale,3.0,3.5,Dundee Summer Wheat Beer,4.5,69712
+1416,Uinta Brewing Company,1287438905,4.0,4.5,4.0,zeff80,American Double / Imperial Stout,4.0,4.5,Labyrinth Black Ale,13.2,58811
+72,Weisses Bräuhaus G. Schneider & Sohn GmbH,1135321970,4.5,4.0,4.5,bennetj17,Weizenbock,4.5,4.5,Schneider Aventinus,8.2,224
+261,Cisco Brewers Inc.,1307308014,4.0,3.5,3.5,DrJay,Light Lager,3.5,4.0,Sankaty Light,3.8,23628
+23980,Yuengling Brewery ,1324341124,3.5,3.0,3.5,jifigz,American Porter,3.5,3.5,Yuengling Porter (Dark Brewed),4.7,921
+321,Brasserie d'Achouffe,1167590127,4.0,4.5,4.0,JayQue,Belgian Strong Dark Ale,4.0,4.0,McChouffe,8.0,1581
+19213,Blue Hills Brewery,1274643418,3.5,3.5,4.5,smcolw,Irish Red Ale,3.5,3.5,Red Baron Ale,5.0,50242
+28,Anchor Brewing Company,1230166129,5.0,4.5,4.0,mjurney,American Pale Ale (APA),5.0,5.0,Anchor Liberty Ale,6.0,665
+174,Latrobe Brewing Co.,1278649733,4.0,3.0,3.0,Mit,American Adjunct Lager,3.0,3.5,Rolling Rock Extra Pale,4.6,567
+220,Lagunitas Brewing Company,1250798886,3.5,3.5,4.5,UDbeernut,American Strong Ale,4.0,4.5,Lagunitas Imperial Red Ale,7.5,22387
+113,Samuel Smith Old Brewery (Tadcaster),1289523429,4.5,2.5,4.5,MP72,Oatmeal Stout,4.0,4.0,Samuel Smith's Oatmeal Stout,5.0,571
+610,Bear Republic Brewing Co.,1185677507,5.0,3.5,4.0,sessycuban,American Double / Imperial Stout,4.0,4.5,Big Bear Black Stout,8.1,1658
+35,Boston Beer Company (Samuel Adams),1071384280,4.5,4.0,3.0,Nytemare,Vienna Lager,4.0,4.5,Samuel Adams Boston Lager,4.9,104
+99,Matt Brewing Company,1257038463,3.5,4.0,4.0,jimj21,Pumpkin Ale,4.0,3.0,Saranac Pumpkin Ale,5.4,25608
+388,Brasserie Cantillon,1122119740,4.0,4.5,4.0,merlin48,Lambic - Fruit,4.5,4.0,Cantillon Rosé De Gambrinus,5.0,2557
+5062,Meantime Brewing Company Limited,1204802889,3.0,3.5,3.5,brendan13,Fruit / Vegetable Beer,3.0,3.5,Raspberry,5.0,29814
+2321,Craftsman Brewing Co.,1193014064,4.5,4.5,4.0,bradford,Saison / Farmhouse Ale,5.0,5.0,Craftsman Sour Lavender,6.0,37887
+119,Otter Creek Brewing / Wolaver's,1199151789,4.5,4.0,3.5,auxiliary,Maibock / Helles Bock,4.0,4.0,Cuckoo Bock (Otter Creek World Tour),7.4,36063
+718,Brouwerij Bavik,1324000502,3.5,3.0,4.0,smakawhat,Flanders Oud Bruin,4.0,4.0,Petrus Aged Pale,7.3,2184
+147,Stone Brewing Co.,1299383276,4.0,3.5,4.5,colforbin73,American Strong Ale,4.5,4.5,Arrogant Bastard Ale,7.2,92
+741,"Lakefront Brewery, Inc.",1215181898,3.5,2.5,5.0,cburian,American IPA,4.0,2.5,IPA,6.9,40416
+147,Stone Brewing Co.,1190686825,4.5,4.5,5.0,iconoklaztor,American Black Ale,4.5,4.5,Stone Sublimely Self-Righteous Ale,8.7,38470
+16866,The Bruery,1308887590,3.5,4.0,3.5,scottfrie,American Wild Ale,3.5,4.0,Collaboration Series: ISO:FT,9.0,65884
+259,Brouwerij St. Bernardus NV,1075756603,4.5,5.0,4.0,,Tripel,5.0,4.5,St. Bernardus Tripel,8.0,722
+3818,Southern Tier Brewing Company,1273754162,4.5,4.0,3.5,shambeano,Old Ale,3.0,4.5,Old Man (Winter Ale),7.7,14368
+1725,Hilltop Brewing Company,1089252783,4.0,3.5,4.0,GCBrewingCo,Maibock / Helles Bock,3.5,3.5,Maibock,,18570
+140,Sierra Nevada Brewing Co.,1262909052,4.0,3.5,4.5,beerthulhu,American IPA,4.0,4.5,Northern Hemisphere Harvest Wet Hop Ale,6.7,6549
+729,Palmetto Brewing Company,1033759608,3.0,3.5,3.0,Suds,American Amber / Red Ale,3.0,3.0,Palmetto Amber,5.5,2665
+118,Orkney Brewery,1102302979,3.5,4.0,4.0,shapudding,Scottish Ale,3.0,3.5,The Red MacGregor,4.0,3329
+215,Bières de Chimay S.A.,1234595677,4.0,4.0,4.5,bowersdm,Dubbel,4.5,4.0,Chimay Première (Red),7.0,672
+1853,Sly Fox Brewing Company,1163059399,4.0,4.0,4.5,Phatz,Doppelbock,4.5,4.5,Instigator Doppelbock,7.3,9364
+10099,Dogfish Head Brewery,1250825351,4.5,4.0,4.0,hdofu,American Double / Imperial IPA,4.0,4.5,Squall IPA,9.0,49838
+15237,De Struise Brouwers,1294960367,3.5,4.0,4.0,womencantsail,Quadrupel (Quad),4.0,4.0,Pannepot Wild,10.0,56780
+335,New Holland Brewing Company,1245656306,4.0,4.0,4.0,kshankar,Oatmeal Stout,4.0,4.0,New Holland The Poet,5.2,8322
+11063,Ølfabrikken,1244955390,4.0,4.5,4.5,coldmeat23,Baltic Porter,4.0,4.0,Ølfabrikken Porter,7.5,31956
+35,Boston Beer Company (Samuel Adams),1250312437,4.0,4.5,4.0,mtnbikerpa,Vienna Lager,4.0,4.5,Samuel Adams Boston Lager,4.9,104
+754,Erie Brewing Co.,1249398384,3.5,3.0,4.0,RonfromJersey,American Pale Ale (APA),3.5,3.5,Mad Anthony's APA,5.5,6477
+3818,Southern Tier Brewing Company,1294120102,4.0,4.5,3.5,BEERMILER12,American Double / Imperial Stout,4.0,4.5,Creme Brulee (Imperial Milk Stout),9.6,43687
+29,Anheuser-Busch,1115503508,3.5,2.0,2.0,MikeT,American Adjunct Lager,3.5,3.0,Budweiser,5.0,65
+207,Brasserie de Rochefort,1233208707,4.5,4.5,4.0,erz316,Belgian Strong Dark Ale,4.0,4.0,Trappistes Rochefort 6,7.5,3842
+26,Three Floyds Brewing Co. & Brewpub,1228016650,5.0,2.5,3.5,PerzentRizen,American Pale Wheat Ale,3.0,2.5,Gumballhead,4.5,9478
+60,Cooperstown Brewing Company,1151626642,3.5,3.5,3.0,Jredner,English Porter,3.5,4.0,Benchwarmer Porter,6.3,176
+419,Spanish Peaks Brewing Co.,1054503481,4.0,3.0,3.5,Brent,American Pale Ale (APA),3.0,3.0,Monterey Pale Ale (MPA),,3398
+1888,Lake Placid Craft Brewing Company,1308869273,3.5,3.5,4.5,Thads324,Hefeweizen,3.5,3.0,Lake Placid Hefeweizen,5.5,11786
+434,Cervejaria Sul Brasileira,1126530248,4.0,3.5,4.5,Bonhoeffer,Schwarzbier,4.0,3.5,Xingu Black Beer,4.7,1314
+10097,Harpoon Brewery,1284343218,4.0,4.0,4.0,Casey10,Wheatwine,4.0,4.0,Harpoon Leviathan - Triticus,11.5,43328
+1471,Dark Horse Brewing Company,1286851865,3.5,4.0,3.5,jera1350,Scotch Ale / Wee Heavy,3.5,3.5,Dark Horse Scotty Karate Scotch Ale,9.75,28039
+26,Three Floyds Brewing Co. & Brewpub,1284073395,3.5,4.0,4.0,siradmiralnelson,Saison / Farmhouse Ale,3.5,3.5,Rabbid Rabbit,7.4,4629
+140,Sierra Nevada Brewing Co.,1238556356,2.5,3.0,4.5,adamette,American IPA,3.0,2.5,Sierra Nevada Celebration Ale,6.8,1904
+30,Avery Brewing Company,1283737476,4.5,3.0,4.5,philbe311,Schwarzbier,4.5,3.5,Avery Anniversary Ale - Seventeen (Dry Hopped Black Lager),8.69,58470
+35,Boston Beer Company (Samuel Adams),1204046993,4.0,3.5,3.0,AltBock,Winter Warmer,4.0,3.5,Samuel Adams Old Fezziwig Ale,5.9,1881
+192,New Belgium Brewing,1159839792,3.5,3.0,3.0,shivtim,American Blonde Ale,2.0,2.0,Skinny Dip,4.2,29675
+287,"Bell's Brewery, Inc.",1214660510,4.0,3.5,3.5,JayQue,American Pale Wheat Ale,4.0,3.5,Bell's Oberon Ale,5.8,1094
+3725,Réservoir,1090561696,4.5,3.0,3.5,3Vandoo,Belgian Pale Ale,4.0,4.5,De Ble Bitter,5.0,9766
+18149,The Lost Abbey,1311649825,4.5,4.5,4.0,sulldaddy,Saison / Farmhouse Ale,4.5,5.0,Red Barn Ale,6.7,32423
+99,Matt Brewing Company,1314483024,3.0,3.0,3.0,CraftBeerTastic,American IPA,3.0,3.0,Saranac India Pale Ale,5.8,1464
+68,Flying Dog Brewery,1231952150,4.0,4.0,3.5,paco1029384756,American Double / Imperial IPA,4.0,3.5,Double Dog Double Pale Ale,11.5,35754
+99,Matt Brewing Company,1242596302,4.0,4.0,3.5,Wasatch,American Double / Imperial IPA,4.0,4.0,Saranac High Peaks Series Imperial IPA,8.5,34409
+72,Weisses Bräuhaus G. Schneider & Sohn GmbH,1163313849,3.5,4.5,4.0,dherling,Weizenbock,4.0,4.5,Schneider Aventinus,8.2,224
+143,Spoetzl Brewery,1007848590,4.0,3.0,4.0,Jason,Hefeweizen,4.0,3.5,Shiner Hefeweizen,5.4,1552
+323,Harviestoun Brewery Ltd.,1220634232,5.0,5.0,4.5,Offa,English Porter,5.0,4.5,Old Engine Oil,6.0,875
+10673,Warbird Brewing Company,1207669471,1.5,2.5,3.0,callmemickey,American Pale Ale (APA),2.0,1.5,Warhawk Pale Ale,7.3,36418
+287,"Bell's Brewery, Inc.",1297645004,4.5,4.0,4.0,lsrose,American IPA,4.0,4.5,Two Hearted Ale,7.0,1093
+13014,Surly Brewing Company,1285172218,4.5,4.5,4.5,bigdonniebrasco,American IPA,4.5,4.5,Furious,6.2,28203
+1341,J.J. Bitting Brewing Company,1208630460,3.5,3.5,4.5,plaid75,English Bitter,3.5,3.5,Bittings Best Bitter,,6127
+147,Stone Brewing Co.,1269221679,4.5,4.5,4.0,KALIKGOLD,American Amber / Red Ale,4.0,4.0,Stone Levitation Ale,4.4,6301
+13947,High & Mighty Beer Co.,1169946087,4.0,3.0,4.5,kelticblood,American Pale Ale (APA),3.5,4.5,XPA (Extra Pale Ale),5.0,30772
+1199,Founders Brewing Company,1316215428,5.0,5.0,5.0,WMEugene,American Double / Imperial Stout,5.0,5.0,Founders Breakfast Stout,8.3,11757
+2098,Terminal Gravity Brewing Company,1268967159,4.0,4.0,4.0,barleywinefiend,American Blonde Ale,4.0,4.0,ESG (Extra Special Golden),5.4,20447
+192,New Belgium Brewing,1316738571,4.0,4.0,4.0,FUNKPhD,American Wild Ale,4.0,4.0,Lips Of Faith - Clutch Collabeeration,9.5,71774
+8535,Carlsberg-Tetley Brewing Ltd,1320497630,3.5,2.5,4.0,WoodBrew,English Bitter,3.5,3.5,Tetley's Smoothflow,3.6,20558
+392,Weyerbacher Brewing Co.,1227587131,4.5,4.5,4.5,Peconic,Russian Imperial Stout,4.0,4.5,Heresy,8.0,18198
+39,Privatbrauerei Franz Inselkammer KG / Brauerei Aying,1260549358,4.0,3.0,5.0,FeDUBBELFIST,Weizenbock,4.5,4.0,Ayinger Weizenbock,7.1,37192
+654,Brouwerij Mort Subite,1287160857,4.0,4.0,4.5,Gueuzedude,Lambic - Unblended,4.0,4.0,Mort Subite Oude Lambik,,62636
+96,Magic Hat Brewing Company,1236221930,4.5,4.5,4.5,woodske1,Fruit / Vegetable Beer,4.5,4.0,#9,5.1,299
+18134,Redhook Ale Brewery,1290139665,4.5,3.5,4.0,thekanna,Extra Special / Strong Bitter (ESB),4.0,4.0,Redhook ESB,5.77,1119
+287,"Bell's Brewery, Inc.",1220920671,4.5,4.5,4.5,Duffman,American IPA,4.0,4.5,Two Hearted Ale,7.0,1093
+863,Russian River Brewing Company,1273360596,5.0,5.0,5.0,nelnutter,American Double / Imperial IPA,5.0,5.0,Pliny The Elder,8.0,7971
+6372,Fort Collins Brewing,1277696677,3.5,3.5,4.0,GarrisWH,Maibock / Helles Bock,4.0,3.5,Hellesbock,7.6,59626
+192,New Belgium Brewing,1204947385,4.5,4.0,3.5,SurlyDuff,Belgian Dark Ale,4.5,4.5,1554 Enlightened Black Ale,5.6,1914
+863,Russian River Brewing Company,1222660170,4.0,4.0,4.0,Proteus93,American Wild Ale,5.0,4.5,Supplication,7.0,22227
+9897,Jolly Pumpkin Artisan Ales,1210895667,4.5,4.5,4.0,FtownThrowDown,American Brown Ale,4.5,5.0,Maracaibo Especial,7.5,22257
+105,Miller Brewing Co.,1201475089,4.5,2.5,3.0,HardcoreKeith,Light Lager,2.5,3.0,Miller Lite,4.17,332
+140,Sierra Nevada Brewing Co.,1318460348,3.5,3.5,3.5,barleyroad,Hefeweizen,3.5,4.0,Sierra Nevada Kellerweis Hefeweizen,4.8,48434
+1199,Founders Brewing Company,1210209845,4.5,5.0,4.5,paco1029384756,American Double / Imperial IPA,5.0,5.0,Founders Devil Dancer,12.0,17538
+147,Stone Brewing Co.,1273410578,4.0,4.0,3.5,CraftAleRookie,American Amber / Red Ale,3.5,3.5,Stone Levitation Ale,4.4,6301
+42,Brewery Ommegang,1168903709,4.0,4.0,4.5,jettjon,Saison / Farmhouse Ale,4.0,4.0,Hennepin (Farmhouse Saison),7.7,141
+1199,Founders Brewing Company,1320804012,5.0,5.0,4.0,jmich24,Scotch Ale / Wee Heavy,4.0,5.0,Founders Backwoods Bastard,10.2,35036
+29,Anheuser-Busch,1223216799,4.0,3.0,3.5,Hojaminbag,American Amber / Red Ale,3.5,3.5,Budweiser American Ale,5.3,43118
+353,"Carlton & United Breweries, Ltd.",1023160510,1.0,1.0,1.0,rastaman,American Adjunct Lager,1.0,1.0,Melbourne Bitter,4.6,3998
+262,Shmaltz Brewing Company,1252286852,4.0,4.0,4.0,webmanspidey,American Strong Ale,4.0,4.0,He'Brew Rejewvenator (Year Of The Fig) 2008,7.8,42380
+4398,Baron Brewing,1265407400,4.0,3.0,4.0,philbertk,American Pale Ale (APA),2.5,2.5,Three Skulls Pillagers Pale,6.0,48251
+923,Ska Brewing Co.,1281663990,3.5,4.0,4.5,brownbeer,American Double / Imperial IPA,3.5,4.0,Decadent Imperial IPA,10.0,21337
+447,Pabst Brewing Company,1200314404,2.5,2.5,3.0,MTNboy,Low Alcohol Beer,2.5,2.5,Old Milwaukee Non Alcoholic,0.4,5719
+388,Brasserie Cantillon,1279596300,4.0,4.5,5.0,Tballz420,Lambic - Unblended,4.0,5.0,Cantillon Iris,5.0,7435
+604,Brasserie Dubuisson Frères sprl,1104102081,2.5,4.0,3.5,Bourre,Belgian Strong Pale Ale,3.5,3.5,Bush Ambrée,12.0,1602
+641,Brouwerij Verhaeghe,1146209611,3.5,3.5,4.0,dogfooddog,Belgian Strong Pale Ale,3.0,3.0,Noël Christmas Weihnacht,7.2,9208
+5318,Port Brewing Company / Pizza Port,1262623164,4.5,4.0,4.0,womencantsail,American IPA,4.0,4.0,Jetty IPA,6.5,50969
+2432,Klosterbrauerei Ettal / Ettaler Klosterbetriebe GmbH,1255983188,2.0,3.5,4.0,Arbitrator,Munich Dunkel Lager,2.0,3.0,Ettaler Kloster Dunkel,5.0,24206
+802,The Blue Ridge Brewing Co.,1197609283,3.0,3.5,3.5,ChainGangGuy,American Stout,3.0,3.5,XXX Total Eclipse Stout,,6086
+489,Brouwerij 't IJ,1029086336,5.0,4.5,4.5,marc77,Tripel,4.0,4.0,Zatte,8.0,1406
+256,Lost Coast Brewery and Cafe,1294796426,3.0,3.5,4.0,brewerburgundy,English Brown Ale,3.5,3.5,Downtown Brown,5.0,717
+139,Shipyard Brewing Co.,1284393715,3.0,2.0,2.0,Sachsenfreude,Pumpkin Ale,3.0,2.0,Pumpkinhead Ale,5.1,1932
+28,Anchor Brewing Company,1237663011,4.0,4.0,4.0,aubuc1,Bock,4.0,3.5,Anchor Bock Beer,5.5,23942
+119,Otter Creek Brewing / Wolaver's,1235612560,4.0,4.5,4.5,fingerlaker,Pumpkin Ale,3.5,4.0,Wolaver's (Organic) Pumpkin Ale,,44209
+337,Saint Arnold Brewing Company,1143067578,4.0,3.5,4.0,cheers2beers,American Stout,4.0,4.0,Saint Arnold Winter Stout,5.6,1069
+35,Boston Beer Company (Samuel Adams),1123937621,3.0,3.5,3.5,Citadel82,Vienna Lager,3.0,3.5,Samuel Adams Boston Lager,4.9,104
+430,Alltech’s Lexington Brewing and Distilling Co.,1305938173,2.0,3.5,3.5,brewski09,American Strong Ale,4.0,2.0,Kentucky Bourbon Barrel Ale,8.19,18698
+35,Boston Beer Company (Samuel Adams),1033131201,4.5,4.5,4.5,Mick,Vienna Lager,4.5,4.5,Samuel Adams Boston Lager,4.9,104
+302,Genesee Brewing Co. / Dundee Brewing Co.,1258765014,3.5,3.0,4.0,Vancer,Maibock / Helles Bock,3.5,3.0,Dundee Pale Bock Lager,6.2,21861
+434,Cervejaria Sul Brasileira,1144368796,4.0,2.5,3.0,barneby,Schwarzbier,2.5,3.0,Xingu Black Beer,4.7,1314
+22,Unibroue,1042831328,4.5,4.5,4.0,mickeymac,Belgian Strong Pale Ale,4.5,4.5,Unibroue 11,11.0,7361
+99,Matt Brewing Company,1158825496,4.0,4.0,3.0,Globetrotter,American IPA,3.5,3.5,Saranac India Pale Ale,5.8,1464
+388,Brasserie Cantillon,1309194947,4.0,4.0,4.5,billshmeinke,Lambic - Unblended,4.5,4.0,Cantillon Iris,5.0,7435
+378,Atlantic Brewing Company,1258322519,3.5,3.0,3.5,shoude,Herbed / Spiced Beer,4.0,3.5,Mount Desert Island Ginger,5.2,6950
+392,Weyerbacher Brewing Co.,1305931861,4.5,4.5,4.0,bs870621345,Quadrupel (Quad),4.0,4.5,Blasphemy,11.8,35774
+17856,Rex Beverage Holdings,1317357918,2.5,2.5,3.5,FickleBeast,Märzen / Oktoberfest,2.5,2.5,Horny Goat Oktoberfest,6.0,62501
+252,Bayerische Staatsbrauerei Weihenstephan,1315792202,4.0,4.5,4.0,RickS95,Dunkelweizen,3.5,4.0,Weihenstephaner Hefeweissbier Dunkel,5.3,808
+345,Victory Brewing Company,1177115294,4.5,3.5,4.5,ericj551,Witbier,3.5,4.0,Whirlwind Witbier,5.0,1015
+1480,Matilda Bay Brewing Co.,1170417736,2.5,3.5,3.5,Kulrak,Vienna Lager,3.0,2.0,Rooftop Red Lager,4.7,24030
+710,Jacob Leinenkugel Brewing Company,1212884314,4.0,4.0,3.5,musicjustintime,Fruit / Vegetable Beer,3.5,3.5,Leinenkugel's Summer Shandy,4.2,36010
+60,Cooperstown Brewing Company,1209083852,4.0,4.0,4.5,craigowens,English India Pale Ale (IPA),4.0,3.5,Back Yard India Pale Ale,6.1,1599
+170,Stone Coast Brewing Co.,1224072127,3.0,3.5,3.5,thekevlarkid,Bock,3.0,3.5,Knuckleball Bock,5.0,11841
+30,Avery Brewing Company,1277169866,4.0,4.0,3.5,stimulus,Belgian Pale Ale,4.0,3.5,Karma,5.2,23042
+396,AleSmith Brewing Company,1185058119,5.0,4.5,4.5,Estarrio,American Strong Ale,4.5,4.5,AleSmith Decadence 2006 (Dead By Dawn),9.9,37610
+345,Victory Brewing Company,1132445637,4.5,5.0,4.5,jasonpeckins32,American IPA,4.0,4.5,HopDevil Ale,6.7,1005
+17963,Nectar Ales,1300145972,3.0,4.0,4.5,rrski198,American IPA,3.0,4.0,IPA Nectar,6.8,9024
+423,Boulevard Brewing Co.,1223587952,4.5,4.5,3.5,Reino,Tripel,4.0,4.0,Long Strange Tripel,9.0,39754
+9629,Short's Brewing Company,1282768339,5.0,4.5,4.0,OWSLEY069,American IPA,4.0,4.5,Short's Huma-Lupa-Licious IPA,6.9,17900
+9897,Jolly Pumpkin Artisan Ales,1180836944,4.0,4.5,4.0,Georgiabeer,American Brown Ale,4.0,4.5,Maracaibo Especial,7.5,22257
+28,Anchor Brewing Company,1058768290,4.5,4.0,4.0,BeerMansGirl,American Pale Ale (APA),4.0,4.0,Anchor Liberty Ale,6.0,665
+418,Left Hand Brewing Company,1099591721,4.0,4.5,5.0,Mitchster,American IPA,4.0,4.5,Warrior IPA,7.6,9182
+113,Samuel Smith Old Brewery (Tadcaster),1164919636,4.5,4.5,4.0,ellisdee97,Russian Imperial Stout,4.5,4.5,Samuel Smith's Imperial Stout,7.0,782
+1199,Founders Brewing Company,1310478440,4.5,4.5,4.5,iflah45,American Double / Imperial Stout,4.0,5.0,Founders KBS (Kentucky Breakfast Stout),11.2,19960
+10099,Dogfish Head Brewery,1257127479,4.5,4.0,4.0,drabmuh,American Double / Imperial IPA,4.0,4.5,120 Minute IPA,18.0,9086
+139,Shipyard Brewing Co.,1255739004,3.0,3.5,3.0,Redrover,Pumpkin Ale,3.0,3.5,Pumpkinhead Ale,5.1,1932
+14400,Ninkasi Brewing Company,1230605833,4.5,5.0,4.5,mikesgroove,American Double / Imperial IPA,4.5,4.5,Tricerahops Double IPA,8.8,37966
+119,Otter Creek Brewing / Wolaver's,1157395947,3.5,3.5,3.0,BEERchitect,American Pale Ale (APA),3.5,3.5,Otter Creek Pale Ale,4.6,432
+23495,Professor Fritz Briem,1218577008,4.0,4.0,3.5,roadhouse,Berliner Weissbier,4.0,4.5,Professor Fritz Briem 1809 Berliner Weisse,5.0,36378
+10397,Sly Fox Brewing Company,1275151376,4.0,4.0,4.5,TheFightfan1,American IPA,3.5,4.5,Route 113 India Pale Ale,7.0,28792
+20914,Vofas-Engelman,1279298885,3.0,3.5,3.5,MasterSki,Kvass,4.0,3.0,Smetonika Gira,1.2,60080
+73,Great Lakes Brewing Company,1317078858,5.0,4.5,4.0,goldbot,American Porter,4.5,5.0,Great Lakes Edmund Fitzgerald Porter,5.8,226
+147,Stone Brewing Co.,1276230253,4.0,4.5,4.0,djbreezy,Russian Imperial Stout,4.0,4.5,Stone Imperial Russian Stout,10.5,1160
+863,Russian River Brewing Company,1302488572,4.0,4.0,3.5,zhanson88,American Wild Ale,4.0,4.5,Consecration,10.0,45653
+1549,Goose Island Beer Co.,1298077037,3.5,3.5,3.5,Vonerichs,Saison / Farmhouse Ale,4.0,4.0,Pepe Nero,6.0,57202
+220,Lagunitas Brewing Company,1323917462,4.5,4.0,2.5,russpowell,Weizenbock,4.5,5.0,Bavarian-Styled Doppel Weizen,9.0,73131
+287,"Bell's Brewery, Inc.",1122862882,4.0,4.5,5.0,ViveLaChouffe,Russian Imperial Stout,4.5,5.0,Bell's Expedition Stout,10.5,1444
+22893,Epic Brewing Co.,1307415812,3.0,3.0,4.0,ejyoung,Saison / Farmhouse Ale,3.0,3.5,Sour Apple Saison,7.8,59145
+689,Two Brothers Brewing Company,1160168967,4.5,4.0,4.0,rhoadsrage,American Pale Ale (APA),4.0,4.0,Sheffields Pale Ale,,33089
+103,"Middle Ages Brewing Co., Ltd.",1153144632,5.0,4.0,4.5,guzzle211,Russian Imperial Stout,4.0,4.5,Dragonslayer,9.5,2004
+158,Great Divide Brewing Company,1192243556,3.0,4.0,4.5,Lothore,American Double / Imperial IPA,4.0,3.0,Hercules Double IPA,10.0,17060
+1549,Goose Island Beer Co.,1298775635,4.0,4.0,4.0,foogerd,Flanders Oud Bruin,3.5,4.0,Madame Rose,7.0,51983
+863,Russian River Brewing Company,1313267534,4.5,4.5,4.0,dtivp,American Double / Imperial IPA,4.0,4.5,Pliny The Elder,8.0,7971
+17981,Cigar City Brewing,1295832132,4.0,3.5,4.0,321jeff,American IPA,4.0,4.0,Jai Alai IPA,7.5,46363
+10099,Dogfish Head Brewery,1208489167,4.5,4.5,4.0,asabreed,Fruit / Vegetable Beer,4.5,4.5,Black & Blue,10.0,32437
+766,Heartland Brewery Union Square,1199340132,3.5,3.5,3.5,RblWthACoz,American Amber / Red Lager,4.0,4.0,Heartland Brewery Berry Champagne Ale,5.7,36592
+17981,Cigar City Brewing,1295739678,4.0,3.5,4.0,Billolick,American Brown Ale,4.0,4.0,Improv (Improvisación) Oatmeal Rye India-Style Brown Ale,9.0,48825
+12142,Williams Brothers Brewing Company,1229456787,2.0,3.5,4.0,magictrokini,Scottish Gruit / Ancient Herbed Ale,2.0,1.0,Alba Scots Pine Ale,7.5,243
+5943,Brauerei Michael Plank,1206341093,5.0,4.5,4.5,MuenchenerKindl,Weizenbock,4.5,4.5,Plank Bavarian Heller Weizenbock,7.5,36326
+45,Brooklyn Brewery,1324177586,3.5,4.0,4.0,dgilks,English India Pale Ale (IPA),3.5,3.5,Brooklyn East India Pale Ale,6.8,147
+112,North Coast Brewing Co.,1167608909,4.0,3.5,4.0,thefinetaste376,Russian Imperial Stout,4.5,5.0,Old Rasputin Russian Imperial Stout,9.0,412
+898,Heavy Seas Beer,1214063876,4.0,4.0,4.0,dsa7783,Märzen / Oktoberfest,3.0,3.5,Heavy Seas - Märzen,5.75,57341
+63,Deschutes Brewery,1236875449,5.0,3.5,4.0,greywolf,American Double / Imperial Stout,4.5,4.5,The Abyss,11.0,34420
+391,Big Rock Brewery,1303183657,3.0,3.0,4.5,markaberrant,English India Pale Ale (IPA),4.0,3.5,India Pale Ale,5.0,5084
+462,Sackets Harbor Brewing Co.,1144543645,4.0,3.5,4.0,oberon,American Pale Ale (APA),4.0,4.5,Thousand Islands Pale Ale,6.3,25683
+202,Brouwerij Bosteels,1281417193,4.5,4.0,3.5,MbpBugeye,Tripel,4.0,4.5,Tripel Karmeliet,8.4,656
+20681,Maine Beer Company,1303064310,4.5,4.5,4.5,Kinsman,American Amber / Red Ale,4.0,4.5,Zoe,7.2,54522
+216,Brouwerij Rodenbach N.V.,1057902797,4.0,5.0,4.5,dmarch,Flanders Red Ale,4.5,4.0,Rodenbach Grand Cru,6.0,673
+42,Brewery Ommegang,1306543606,3.5,3.0,4.0,TMoney2591,Belgian Pale Ale,3.5,3.5,Rare Vos (Amber Ale),6.5,593
+1177,Minneapolis Town Hall Brewery,1249677398,4.0,4.5,4.0,Viggo,Russian Imperial Stout,4.0,4.5,Ol' Jack Frost Imperial Stout,8.9,28004
+688,Coastal Extreme Brewing Co.,1283116229,4.0,4.0,4.0,Wasatch,Doppelbock,4.0,4.0,Newport Storm '03,11.9,13757
+1471,Dark Horse Brewing Company,1288795088,4.0,4.0,4.0,Stinkypuss,American IPA,4.0,4.0,Dark Horse Crooked Tree IPA,6.0,5385
+147,Stone Brewing Co.,1263004221,3.5,4.0,4.0,zacarias,American Strong Ale,4.0,3.5,Double Bastard Ale,10.5,1056
+140,Sierra Nevada Brewing Co.,1298860940,4.0,4.5,4.0,HopHead84,American Barleywine,4.0,4.0,Sierra Nevada Bigfoot Barleywine Style Ale,9.6,2671
+42,Brewery Ommegang,1252740370,5.0,4.0,4.0,bret27,Flanders Red Ale,4.0,4.5,Ommegang Rouge,5.5,44091
+418,Left Hand Brewing Company,1301509771,4.5,4.0,3.5,orangesol,Foreign / Export Stout,4.0,4.0,Fade To Black Volume 1 - Foreign Export Stout,8.5,54076
+268,Brouwerij Straffe Hendrik / Huisbrouwerij De Halve Maan,1305643649,2.5,3.0,4.0,tbeckett,Quadrupel (Quad),2.5,2.5,Straffe Hendrik Quadrupel,11.0,63185
+99,Matt Brewing Company,1222465246,3.5,3.5,4.0,Seanibus,Märzen / Oktoberfest,3.0,4.0,Saranac Octoberfest,5.4,1522
+187,Brouwerij Lindemans,1297625968,4.0,3.5,3.5,TMoney2591,Lambic - Fruit,4.0,3.5,Lindemans Apple,3.5,36583
+178,J.W. Lees & Co (Brewers) Ltd,1280071701,4.0,3.5,4.0,cbutova,English Barleywine,4.0,4.0,J.W. Lees Vintage Harvest Ale,11.5,705
+870,Moylan's Brewery,1277608270,3.5,3.5,4.0,Mora2000,American Porter,3.5,3.5,Chelsea Porter,5.0,55357
+345,Victory Brewing Company,1234151902,4.0,4.0,3.5,kshankar,American Barleywine,4.0,4.0,Old Horizontal,11.0,1009
+1634,Gilded Otter Brewing Company,1274899576,4.0,4.0,4.0,plaid75,Irish Dry Stout,4.0,4.0,Stone House Irish Stout,4.5,49346
+130,Boulder Beer / Wilderness Pub,1219713425,3.0,4.0,3.0,dacrza1,Winter Warmer,3.0,3.5,Never Summer Ale,5.94,9590
+63,Deschutes Brewery,1064251773,4.5,3.5,4.0,alexgash,German Pilsener,4.0,4.0,Pine Mountain Pils,5.1,1028
+132,Rogue Ales,1247434020,4.0,4.0,4.5,Cyberkedi,Extra Special / Strong Bitter (ESB),4.5,4.0,XS Imperial Younger's Special Bitter,7.1,34761
+738,Brasserie Fantôme,1301021192,4.5,4.0,3.5,MbpBugeye,Saison / Farmhouse Ale,3.5,4.0,Fantôme De Noel,10.0,2204
+392,Weyerbacher Brewing Co.,1161897995,3.0,3.0,3.5,foureyedgeek,Old Ale,3.0,3.0,Black Hole,7.0,16637
+30,Avery Brewing Company,1182045478,4.0,3.5,4.0,oakbluff,Belgian Strong Dark Ale,4.0,4.5,Collaboration Not Litigation Ale,8.72,34877
+7464,Sankt Gallen Brewery,1320201124,4.5,3.5,4.5,afksports,Russian Imperial Stout,4.5,4.0,Sanktgallen Imperial Chocolate Stout,8.5,30726
+2085,Dragonmead Microbrewery,1297452095,2.0,3.0,4.0,rings,Scotch Ale / Wee Heavy,4.0,3.5,Dragonmead Under The Kilt Wee Heavy,7.8,6685
+15090,Søgaards Bryghus,1213750742,4.0,3.5,4.0,NeroFiddled,Bock,4.0,4.0,Julebuk,6.3,34533
+9408,Great Lakes Brewery,1308890350,4.0,4.0,3.5,northyorksammy,American IPA,4.0,4.0,"Great Lakes Chinook, Line And Sinker",6.9,70344
+402,Old Dominion Brewing Company,1129142659,5.0,4.5,4.5,RBorsato,Irish Red Ale,4.5,4.5,Dominion Irish Cream Ale,,26356
+127,Portland Brewing Company,1257991620,3.5,3.0,3.5,GreenCard,American Porter,4.0,3.0,MacTarnahan's Winter Humbug'r Ale,5.3,53232
+35,Boston Beer Company (Samuel Adams),1204159254,2.5,2.5,3.0,beerthulhu,Fruit / Vegetable Beer,2.5,2.5,Samuel Adams Cherry Wheat,5.3,108
+63,Deschutes Brewery,1220571963,4.5,5.0,4.5,SurlyDuff,Flanders Oud Bruin,4.5,5.0,The Dissident,10.5,44409
+652,Central Waters Brewing Company,1309113015,4.0,4.5,4.0,Vdubb86,American Double / Imperial IPA,3.5,4.0,Illumination Double IPA,9.0,58806
+610,Bear Republic Brewing Co.,1272728079,4.0,4.0,4.0,ArrogantB,American Double / Imperial IPA,4.0,4.0,Apex,7.5,22172
+1345,Dick's Brewing Company,1195769555,4.0,4.0,4.0,RJLarse,American IPA,4.0,3.5,Dick's IPA,5.5,14783
+313,Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),1138920898,5.0,4.5,4.5,DaPeculierDane,Dubbel,5.0,4.5,Trappist Westvleteren 8,8.0,857
+890,Allgäuer Brauhaus AG,1121486804,1.0,2.5,2.5,mentor,Munich Helles Lager,3.5,2.0,Blues Lager,4.7,16243
+147,Stone Brewing Co.,1298917713,3.0,2.0,3.0,harrymel,American Barleywine,3.0,3.0,Stone Old Guardian Barley Wine Style Ale 2011,12.0,66268
+112,North Coast Brewing Co.,1294712433,4.5,4.0,4.0,CaptDavyJones,American IPA,4.5,4.0,ACME California IPA,6.5,403
+45,Brooklyn Brewery,1128449683,5.0,3.0,4.0,sacfly,English Pale Ale,4.0,4.0,Brooklyn Ale / Pennant Ale '55,5.0,836
+863,Russian River Brewing Company,1305853994,4.0,4.0,4.0,alenonbeeradv,American Blonde Ale,3.5,4.0,Happy Hops,5.0,44455
+771,Ferme Brasserie Schoune,1223646327,3.0,3.0,3.0,Phyl21ca,Belgian Pale Ale,3.0,3.5,La Suroît,5.0,10023
+313,Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),1324883058,5.0,4.5,4.5,Crundy,Quadrupel (Quad),5.0,5.0,Trappist Westvleteren 12,10.2,1545
+147,Stone Brewing Co.,1303120909,4.0,4.0,4.0,Swedes21,American Pale Ale (APA),4.0,4.0,Stone Pale Ale,5.4,87
+478,Labatt Brewing Company Ltd.,1047094780,2.5,2.5,2.5,AtLagerHeads,American Adjunct Lager,2.5,2.5,Labatt Blue,5.0,1371
+47,Brouwerij Boon,1326060407,4.0,4.0,3.5,oline73,Gueuze,4.5,4.0,Boon Geuze,6.0,153
+147,Stone Brewing Co.,1315613147,3.0,2.5,3.5,DrewCapzz,Milk / Sweet Stout,3.0,2.5,Jason Fields & Kevin Sheppard / Tröegs / Stone Cherry Chocolate Stout,7.3,71405
+2743,Green Flash Brewing Co.,1317609478,4.0,4.0,4.5,vandemonian,American Double / Imperial IPA,4.5,3.5,Green Flash Imperial India Pale Ale,9.4,34085
+267,Odell Brewing Company,1279401934,4.0,4.5,4.5,siradmiralnelson,American Black Ale,4.0,4.0,Mountain Standard Double Black IPA,9.5,63543
+141,Smuttynose Brewing Company,1088042057,3.0,3.0,3.0,kennyo,Maibock / Helles Bock,3.0,3.0,Smuttynose Maibock (Big Beer Series),8.7,188
+652,Central Waters Brewing Company,1266174759,5.0,4.5,3.5,BeerFMAndy,American Double / Imperial Stout,5.0,5.0,Brewer's Reserve Bourbon Barrel Stout,9.5,16062
+48,Brouwerij Van Steenberge N.V.,1258431408,3.0,4.0,5.0,TheStoutAholic,Belgian Strong Dark Ale,3.0,3.0,Gulden Draak (Dark Triple),10.5,155
+11984,Shoreline Brewery And Restaurant,1309384330,3.0,4.0,3.0,cjacobsen,American Double / Imperial Stout,2.5,3.0,Big Bourbon Series Lost Sailor Imperial Stout,12.0,51990
+220,Lagunitas Brewing Company,1181957760,3.5,4.5,4.0,drseamus,American Strong Ale,4.0,3.5,Brown Shugga',9.99,2264
+436,Brouwerij Alken-Maes,1310850780,4.0,4.0,4.0,sfprint,Belgian Strong Pale Ale,3.5,4.0,Grimbergen Goud Dorée,8.0,42150
+16456,Cody Brewing Company,1307058082,3.0,3.0,3.5,PEIhop,American IPA,3.0,3.0,No Name IPA,5.5,63474
+29,Anheuser-Busch,1234671526,5.0,1.0,1.5,12NattiBottles,Light Lager,3.0,3.0,Busch Light,4.1,1390
+26,Three Floyds Brewing Co. & Brewpub,1074374361,4.5,4.5,4.5,Boto,American Double / Imperial IPA,4.5,5.0,Dreadnaught IPA,9.5,1558
+68,Flying Dog Brewery,1218320398,3.5,3.0,4.0,stephens101,California Common / Steam Beer,3.5,3.5,Old Scratch Amber Lager,5.5,204
+3080,Humperdinks Texas LLC,1200968353,4.0,3.5,4.0,drseamus,American Porter,4.0,4.0,Total Disorder Porter,5.8,31560
+590,New Glarus Brewing Company,1221090797,4.5,4.0,4.0,FtownThrowDown,American Porter,3.5,4.5,Unplugged Smoke On The Porter,6.1,39527
+107,Millstream Brewing Company,1269833240,4.0,4.5,4.5,Cubsfan1087,Vienna Lager,4.0,4.5,Millstream Schild Brau Amber,4.9,336
+365,Pike Pub & Brewery,1282878571,4.5,3.5,4.5,Docer,American Stout,4.0,4.0,Pike Street XXXXX Stout,7.0,966
+94,Long Trail Brewing Co.,1260738752,3.5,3.5,4.0,woodychandler,Altbier,3.5,4.0,Long Trail Ale,4.6,3128
+1549,Goose Island Beer Co.,1220476874,5.0,4.0,4.0,hoppyeverafter,English India Pale Ale (IPA),4.5,4.5,India Pale Ale,5.9,3968
+212,Brouwerij Van Honsebrouck N.V.,1315966359,3.5,4.0,4.0,kylehay2004,Fruit / Vegetable Beer,3.5,3.5,Kasteel Rouge,8.0,38795
+418,Left Hand Brewing Company,1311048711,3.5,4.0,4.0,TheManiacalOne,American Double / Imperial Pilsner,3.5,3.5,Midnight Project #3 Oxymoron,7.2,61369
+29,Anheuser-Busch,1282858726,2.0,1.5,2.0,ColForbinBC,American Adjunct Lager,2.0,2.0,Budweiser,5.0,65
+140,Sierra Nevada Brewing Co.,1175318281,3.5,3.5,3.5,BeerTruth,English India Pale Ale (IPA),3.5,3.0,Sierra Nevada India Pale Ale,6.8,1607
+13804,Benelux Brewpub & Café,1257343255,5.0,4.5,4.5,bobsy,American Brown Ale,4.5,4.5,Armada,6.3,44547
+72,Weisses Bräuhaus G. Schneider & Sohn GmbH,1160010145,4.0,4.5,4.0,TurdFurgison,Eisbock,4.0,4.5,Schneider Aventinus Weizen-Eisbock,12.0,1934
+27042,Middleton Brewing,1321395467,4.0,4.0,4.0,Mora2000,American Porter,4.5,4.0,Black Lab Porter,6.5,75336
+193,Anderson Valley Brewing Company,1229042300,4.0,4.5,3.0,mobyfann,Winter Warmer,4.5,4.0,Winter Solstice Seasonal Ale,6.9,2081
+5318,Port Brewing Company / Pizza Port,1157935749,4.5,4.0,4.0,Westsidethreat,American Double / Imperial IPA,4.5,5.0,Poor Man's Double IPA,9.0,32474
+199,Ballast Point Brewing Company,1298426897,5.0,5.0,4.5,Reagan1984,American Porter,5.0,4.5,Victory At Sea Coffee Vanilla Imperial Porter,10.0,48505
+252,Bayerische Staatsbrauerei Weihenstephan,1221600324,4.5,3.5,3.5,BWH3,Märzen / Oktoberfest,3.5,3.5,Weihenstephaner Festbier,5.8,6861
+16759,Southern Star Brewing Company,1301880095,4.0,4.0,4.0,BrewerB,American Double / Imperial Stout,4.5,4.0,Buried Hatchet Stout,8.25,47026
+35,Boston Beer Company (Samuel Adams),1298003254,3.5,3.5,3.5,afinepilsner,Rye Beer,3.5,3.5,Samuel Adams Revolutionary Rye Ale,5.5,60064
+436,Brouwerij Alken-Maes,1208884515,3.5,4.0,4.0,BoitSansSoif,Dubbel,3.5,3.5,Grimbergen Dubbel,6.5,1496
+132,Rogue Ales,1174662722,3.0,4.5,4.5,KATE12,American Stout,3.5,3.0,Chocolate Stout,6.0,1118
+10099,Dogfish Head Brewery,1312905010,4.0,4.0,4.0,jondeelee,Witbier,4.0,4.5,Red & White,10.0,32435
+215,Bières de Chimay S.A.,1264918504,4.5,4.0,4.0,eat,Tripel,5.0,4.0,Chimay Tripel (White),8.0,1346
+148,Belhaven Brewery Company Ltd.,1268347892,3.0,2.5,4.0,cdizinno,Scottish Ale,3.0,2.5,Belhaven Scottish Ale,5.2,1163
+5318,Port Brewing Company / Pizza Port,1311534769,4.0,4.5,3.5,pburland23,American Amber / Red Ale,3.5,4.0,Shark Attack Double Red Ale,9.0,41421
+9969,Rahr & Sons Brewing Company,1306118600,4.5,4.0,4.0,RobJTejas,Winter Warmer,4.5,4.5,Winter Warmer,8.5,33822
+761,CB's Brewing Company,1124054259,4.0,4.0,3.5,Naes,American Porter,4.0,4.5,CB's Double Dark Cream Porter,5.0,2317
+147,Stone Brewing Co.,1217594792,5.0,4.5,4.0,kinger,American Barleywine,4.5,5.0,Stone Old Guardian Barley Wine Style Ale 2006,11.2,28687
+267,Odell Brewing Company,1271642521,2.5,3.5,3.0,emmasdad,American Barleywine,4.0,3.5,India Barley Wine,9.7,52791
+9558,Brown's Brewing Company,1264117112,3.5,3.5,4.0,Billolick,American Pale Ale (APA),4.0,4.0,Brown's Pale Ale,5.5,20756
+6865,Detroit Beer Co.,1237061376,3.5,3.5,3.5,tmoneyba,American Pale Lager,3.5,3.0,Detroit Lager,,37522
+4146,Karl Strauss Brewing Company,1316740716,4.0,3.5,4.0,MasterSki,American Double / Imperial Stout,3.5,4.0,22nd Anniversary Vanilla Imperial Stout,9.0,65872
+17981,Cigar City Brewing,1313542501,4.0,4.0,4.5,warnerry,American IPA,4.0,4.0,Jai Alai IPA - Cedar Aged (Humidor Series),7.5,50081
+195,Brouwerij De Musketiers,1258565372,4.0,4.5,4.5,Stinkypuss,Foreign / Export Stout,4.0,4.5,Troubadour Obscura,8.5,12804
+9969,Rahr & Sons Brewing Company,1170536673,3.0,4.5,3.5,biegaman,Schwarzbier,4.0,4.0,Ugly Pug Black Lager,4.5,21192
+73,Great Lakes Brewing Company,1323654832,4.5,4.5,4.5,brystmar,Russian Imperial Stout,3.0,4.0,Great Lakes Blackout Stout,9.0,15813
+4,Allagash Brewing Company,1180220476,3.5,3.5,3.5,sinstaineddemon,Quadrupel (Quad),3.0,3.5,Allagash FOUR,10.0,16655
+74,Gritty McDuff's Brewing Company,1213824101,3.5,3.0,4.0,ChainGangGuy,Extra Special / Strong Bitter (ESB),4.0,3.0,Gritty McDuff's Christmas Ale,6.2,708
+112,North Coast Brewing Co.,1140394861,4.0,4.0,4.0,Pegasus,Saison / Farmhouse Ale,3.5,3.5,Silver Jubilee - 25th Anniversary Ale,7.3,25981
+17981,Cigar City Brewing,1295080056,3.5,4.0,4.0,JohnGalt1,American Black Ale,4.0,3.0,Or,11.2,63423
+416,Brick Brewing Co. / Red Baron Lounge,1117311930,3.0,2.5,3.0,BigBry,American Blonde Ale,3.0,3.0,Brick Red Cap Ale,5.0,6390
+96,Magic Hat Brewing Company,1248051189,4.0,3.0,3.5,Mit,American IPA,3.0,3.5,Lucky Kat,5.8,40999
+29,Anheuser-Busch,1214701597,4.0,3.5,3.0,Sylf,American Pale Wheat Ale,4.0,3.0,Michelob Hop Hound Amber Wheat,5.3,47290
+2681,Oskar Blues Grill & Brew,1247990950,4.0,4.0,3.0,Westsidebuddha,Russian Imperial Stout,4.0,4.5,Ten FIDY,10.5,34483
+287,"Bell's Brewery, Inc.",1298419777,2.5,3.0,3.0,Kkottonmouthkngz,Berliner Weissbier,3.0,2.5,Bell's Oarsman,4.0,49092
+22150,Stillwater Artisanal Ales,1291775323,3.5,3.5,4.0,DavoleBomb,Saison / Farmhouse Ale,3.5,4.0,Stateside Saison,6.8,57210
+10485,East End Brewing Company,1302280269,4.5,4.5,3.5,IronCitySteve,Hefeweizen,4.5,4.5,Monkey Boy,4.8,41719
+10097,Harpoon Brewery,1292092836,3.0,4.0,4.0,tone77,Winter Warmer,3.5,3.5,Harpoon Winter Warmer,5.5,310
+2137,Breckenridge Brewery,1202785434,1.5,5.0,4.0,benito,Scottish Ale,4.0,4.0,471 ESB,7.8,36042
+2793,County Durham Brewing Company,1262023405,4.0,4.0,4.0,cratez,American Amber / Red Ale,4.0,4.5,Durham Red Dragon,4.7,47682
+10096,Cervejaria Sudbrack Ltda,1228023170,4.0,4.5,3.5,Greggy,Rauchbier,4.0,4.5,Eisenbahn Rauchbier,6.3,28315
+22,Unibroue,1095058882,4.0,4.5,4.0,bignick,Belgian Strong Pale Ale,4.0,5.0,Edition 2004,10.5,14732
+1471,Dark Horse Brewing Company,1248930606,3.0,5.0,4.5,jdklks,Russian Imperial Stout,4.5,3.5,Plead The 5th Imperial Stout,12.0,45073
+1471,Dark Horse Brewing Company,1022583355,3.5,3.5,4.0,aracauna,American Strong Ale,3.0,3.5,Dark Horse Reserve Special Black Bier Ale,7.5,3877
